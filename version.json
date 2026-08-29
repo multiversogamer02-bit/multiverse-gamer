@@ -1,5 +1,5 @@
 {
-  "version": "1.18.4",
-  "url": "https://multiversegamer.netlify.app",
-  "notas": "Mejora interna: la app ahora se actualiza y lee la tienda desde un servidor más estable. No cambia nada para vos."
+  "version": "1.18.5",
+  "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
+  "notas": "Novedades de esta versión:\n• Temas de color para la app (elegí el tuyo en Ajustes).\n• Aviso de juegos nuevos en la Tienda.\n• Asistente de BIOS en la pestaña Emuladores.\n• Biblioteca: colecciones y galería de capturas.\n• Tutorial de bienvenida la primera vez.\n• Arreglo: la Tienda ahora detecta bien los juegos ya instalados."
 }
