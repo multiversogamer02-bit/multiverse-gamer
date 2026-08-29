@@ -247,7 +247,87 @@
       "descripcion": "Fútbol callejero con trucos, freestyle y partidos 3 contra 3 en escenarios urbanos del mundo.",
       "tamano": "1.1 GB",
       "url": "https://drive.google.com/file/d/1eSKChHkakEMy8zwHau7cVmb_rT1eBd-2/view?usp=drive_link"
-    }	
+    },
+	  {
+    "id": "devil-may-cry-ps2",
+    "nombre": "Devil May Cry",
+    "consola": "ps2",
+    "descripcion": "El aclamado juego de acción y hack and slash donde controlas a Dante, un cazador de demonios con estilo.",
+    "tamano": "1.2 GB",
+    "url": "https://drive.google.com/file/d/1q-LzFYBngWr-ayvASA-j91aBmsVHq7PV/view?usp=drive_link"
+  },
+  {
+    "id": "guitar-hero-iii-legends-of-rock-ps2",
+    "nombre": "Guitar Hero III: Legends of Rock",
+    "consola": "ps2",
+    "descripcion": "El icónico juego de ritmo musical que te permite tocar guitarra en canciones de rock legendarias.",
+    "tamano": "1.5 GB",
+    "url": "https://drive.google.com/file/d/1mVKCoH0k_3AMY0i53GHr7TRSL0cHFB82/view?usp=drive_link"
+  },
+  {
+    "id": "pes-2013-ps2",
+    "nombre": "Pro Evolution Soccer 2013",
+    "consola": "ps2",
+    "descripcion": "Simulador de fútbol con jugabilidad pulida, licencias actualizadas y el clásico modo Master League.",
+    "tamano": "1.4 GB",
+    "url": "https://drive.google.com/file/d/1R_f0PAMFhoqqnojzvVkrBYRbpFwbDJ9G/view?usp=drive_link"
+  },
+  {
+    "id": "call-of-duty-3-ps2",
+    "nombre": "Call of Duty 3",
+    "consola": "ps2",
+    "descripcion": "Intenso shooter en primera persona ambientado en la Segunda Guerra Mundial, con campañas épicas y multijugador.",
+    "tamano": "1.3 GB",
+    "url": "https://drive.google.com/file/d/1vo3dvZslw7lwic7cz72UvbN4nfAnQ0uV/view?usp=drive_link"
+  },
+  {
+    "id": "ultimate-spider-man-ps2",
+    "nombre": "Ultimate Spider-Man",
+    "consola": "ps2",
+    "descripcion": "Aventura de acción basada en el cómic, con jugabilidad que alterna entre Spider-Man y Venom en un mundo abierto.",
+    "tamano": "1.2 GB",
+    "url": "https://drive.google.com/file/d/1DcewIni-yzWfNRdc3HHbKVAP0f-WflHB/view?usp=drive_link"
+  },
+  {
+    "id": "mortal-kombat-armageddon-ps2",
+    "nombre": "Mortal Kombat: Armageddon",
+    "consola": "ps2",
+    "descripcion": "El enfrentamiento final de la saga con un roster gigantesco, fatalities y el modo de creación de personajes.",
+    "tamano": "1.4 GB",
+    "url": "https://drive.google.com/file/d/1T7zhExdWHLmo_GAnkleDXQHtSV7mTFLT/view?usp=drive_link"
+  },
+  {
+    "id": "burnout-3-takedown-ps2",
+    "nombre": "Burnout 3: Takedown",
+    "consola": "ps2",
+    "descripcion": "Carreras arcade de alta velocidad centradas en choques espectaculares y derribos a oponentes.",
+    "tamano": "1.1 GB",
+    "url": "https://drive.google.com/file/d/1GF0npluVEQsp7ghy7FR5WVenSAiAQh_q/view?usp=drive_link"
+  },
+  {
+    "id": "crash-bandicoot-the-wrath-of-cortex-ps2",
+    "nombre": "Crash Bandicoot: The Wrath of Cortex",
+    "consola": "ps2",
+    "descripcion": "Las aventuras de Crash continúan en PS2, enfrentándose a nuevos villanos y desafíos de plataformas 3D.",
+    "tamano": "1.2 GB",
+    "url": "https://drive.google.com/file/d/1sgZ3PdOa9IHWvIUDdEIDiF8u2j2p-IcQ/view?usp=drive_link"
+  },
+  {
+    "id": "dragon-ball-z-budokai-3-ps2",
+    "nombre": "Dragon Ball Z: Budokai 3",
+    "consola": "ps2",
+    "descripcion": "Uno de los mejores juegos de lucha de Dragon Ball Z, con un sistema de combate profundo, celdas de habilidad y gran roster.",
+    "tamano": "1.3 GB",
+    "url": "https://drive.google.com/file/d/1BPdjMq-l1K-8eXQiS5R4exHmvHYpuBQx/view?usp=drive_link"
+  },
+  {
+    "id": "need-for-speed-most-wanted-black-edition-ps2",
+    "nombre": "Need for Speed: Most Wanted - Black Edition",
+    "consola": "ps2",
+    "descripcion": "Carreras clandestinas, persecuciones policiales y una lista negra de 15 rivales a los que debes derrotar.",
+    "tamano": "1.4 GB",
+    "url": "https://drive.google.com/file/d/1FHjzMaGInslNUCQbS3wB6ra-il7azt5b/view?usp=drive_link"
+  }
     ]
     }
 
