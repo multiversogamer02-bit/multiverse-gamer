@@ -487,6 +487,70 @@
     "descripcion": "Juego de carreras de mountain bike extremo con saltos, trucos y combate entre ciclistas en montañas peligrosas.",
     "tamano": "1.1 GB",
     "url": "https://drive.google.com/file/d/1wD3Y3__XppkY2Ywu3rMpWu_2ah-qnxSZ/view?usp=drive_link"
+  }, 
+  {
+    "id": "black-ps2",
+    "nombre": "Black",
+    "consola": "ps2",
+    "descripcion": "Shooter en primera persona explosivo y cinematográfico, conocido por su impresionante diseño de sonido y destrucción de escenarios.",
+    "tamano": "1.4 GB",
+    "url": "https://drive.google.com/file/d/1Pzz8ofJQ7sx_NSDHTBI7uEK2G2tRu0Ir/view?usp=drive_link"
+  },
+  {
+    "id": "dragon-ball-z-budokai-tenkaichi-3-ps2",
+    "nombre": "Dragon Ball Z: Budokai Tenkaichi 3",
+    "consola": "ps2",
+    "descripcion": "El juego de lucha 3D definitivo de Dragon Ball Z con el roster más grande, batallas aéreas y transformaciones icónicas.",
+    "tamano": "1.4 GB",
+    "url": "https://drive.google.com/file/d/1EOuAbYSpz3tQyERR5t1ttG7d0e53pO3Q/view?usp=drive_link"
+  },
+  {
+    "id": "wwe-smackdown-here-comes-the-pain-ps2",
+    "nombre": "WWE SmackDown! Here Comes the Pain",
+    "consola": "ps2",
+    "descripcion": "Considerado uno de los mejores juegos de lucha libre de la historia, con un modo historia profundo y jugabilidad sólida.",
+    "tamano": "1.3 GB",
+    "url": "https://drive.google.com/file/d/1me6w9hV10wXSwFvxSJpntBt490_gI7AJ/view?usp=drive_link"
+  },
+  {
+    "id": "need-for-speed-underground-2-ps2",
+    "nombre": "Need for Speed: Underground 2",
+    "consola": "ps2",
+    "descripcion": "Carreras nocturnas de mundo abierto con personalización extrema de vehículos y una banda sonora legendaria.",
+    "tamano": "1.3 GB",
+    "url": "https://drive.google.com/file/d/174FeGGzfriazrKpUDHpUaxife0RCx7-t/view?usp=drive_link"
+  },
+  {
+    "id": "grand-theft-auto-san-andreas-ps2",
+    "nombre": "Grand Theft Auto: San Andreas",
+    "consola": "ps2",
+    "descripcion": "El clásico juego de mundo abierto que definió una generación, con tres ciudades, misiones épicas y personalización del personaje.",
+    "tamano": "1.5 GB",
+    "url": "https://drive.google.com/file/d/1laUG7IyHWWkmPzL1iW2g0xGLg-Lo7DCy/view?usp=drive_link"
+  },
+  {
+    "id": "resident-evil-4-ps2",
+    "nombre": "Resident Evil 4",
+    "consola": "ps2",
+    "descripcion": "El revolucionario juego de terror y acción en tercera persona que redefinió el género con Leon S. Kennedy.",
+    "tamano": "1.4 GB",
+    "url": "https://drive.google.com/file/d/1Ko4SUrx7b_WmJhB9yN6oBbCFHHp5pz83/view?usp=drive_link"
+  },
+  {
+    "id": "god-of-war-ps2",
+    "nombre": "God of War",
+    "consola": "ps2",
+    "descripcion": "La épica aventura de acción de Kratos, llena de combates brutales, puzzles y mitología griega.",
+    "tamano": "1.4 GB",
+    "url": "https://drive.google.com/file/d/1-ADbqg9W--jw2U0mMREKgVwkoqx1aRsL/view?usp=drive_link"
+  },
+  {
+    "id": "god-of-war-2-ps2",
+    "nombre": "God of War II",
+    "consola": "ps2",
+    "descripcion": "La secuela directa que expande la escala y la acción, llevando a Kratos a desafiar a los dioses del Olimpo.",
+    "tamano": "1.5 GB",
+    "url": "https://drive.google.com/file/d/1VeQ5sBnxbKOky6etju6LUimzidX2fqVj/view?usp=drive_link"
   }
 ]
 }
