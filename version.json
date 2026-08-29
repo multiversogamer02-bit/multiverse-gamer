@@ -1,0 +1,5 @@
+{
+  "version": "1.18.4",
+  "url": "https://multiversegamer.netlify.app",
+  "notas": "Mejora interna: la app ahora se actualiza y lee la tienda desde un servidor más estable. No cambia nada para vos."
+}

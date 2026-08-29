@@ -1,0 +1,253 @@
+{
+  "juegos": [
+    {
+      "id": "driar-nes",
+      "nombre": "Driar",
+      "consola": "nes",
+      "descripcion": "Plataformas-puzzle homebrew, gratis y de distribucion libre.",
+      "tamano": "128 KB",
+      "url": "https://raw.githubusercontent.com/retrobrews/nes-games/master/driar.nes"
+    },
+    {
+      "id": "anguna-gba",
+      "nombre": "Anguna",
+      "consola": "gba",
+      "descripcion": "Aventura de accion estilo Zelda, homebrew gratuito para Game Boy Advance.",
+      "tamano": "1.7 MB",
+      "url": "https://raw.githubusercontent.com/retrobrews/gba-games/master/anguna.gba"
+    },
+
+    {
+      "id": "fortnite",
+      "nombre": "Fortnite",
+      "tipo": "link",
+      "consola": "pc",
+      "descripcion": "Battle royale de Epic Games. Gratis.",
+      "url": "https://www.fortnite.com/"
+    },
+    {
+      "id": "valorant",
+      "nombre": "Valorant",
+      "tipo": "link",
+      "consola": "pc",
+      "descripcion": "Shooter tactico 5v5 de Riot Games. Gratis.",
+      "url": "https://playvalorant.com/"
+    },
+    {
+      "id": "lol",
+      "nombre": "League of Legends",
+      "tipo": "link",
+      "consola": "pc",
+      "descripcion": "El MOBA mas jugado del mundo, de Riot Games. Gratis.",
+      "url": "https://www.leagueoflegends.com/"
+    },
+    {
+      "id": "apex",
+      "nombre": "Apex Legends",
+      "tipo": "link",
+      "consola": "pc",
+      "descripcion": "Battle royale de heroes de EA. Gratis.",
+      "url": "https://www.ea.com/games/apex-legends"
+    },
+    {
+      "id": "cs2",
+      "nombre": "Counter-Strike 2",
+      "tipo": "link",
+      "consola": "pc",
+      "descripcion": "El shooter competitivo clasico de Valve. Gratis.",
+      "url": "https://store.steampowered.com/app/730/"
+    },
+    {
+      "id": "dota2",
+      "nombre": "Dota 2",
+      "tipo": "link",
+      "consola": "pc",
+      "descripcion": "MOBA de Valve, profundo y competitivo. Gratis.",
+      "url": "https://www.dota2.com/"
+    },
+    {
+      "id": "tf2",
+      "nombre": "Team Fortress 2",
+      "tipo": "link",
+      "consola": "pc",
+      "descripcion": "Shooter por clases, un clasico de Valve. Gratis.",
+      "url": "https://store.steampowered.com/app/440/"
+    },
+    {
+      "id": "warframe",
+      "nombre": "Warframe",
+      "tipo": "link",
+      "consola": "pc",
+      "descripcion": "Accion cooperativa sci-fi de ninjas espaciales. Gratis.",
+      "url": "https://www.warframe.com/"
+    },
+    {
+      "id": "wows",
+      "nombre": "World of Warships",
+      "tipo": "link",
+      "consola": "pc",
+      "descripcion": "Combate naval por equipos, de Wargaming. Gratis.",
+      "url": "https://worldofwarships.com/"
+    },
+    {
+      "id": "wot",
+      "nombre": "World of Tanks",
+      "tipo": "link",
+      "consola": "pc",
+      "descripcion": "Batallas de tanques por equipos, de Wargaming. Gratis.",
+      "url": "https://worldoftanks.com/"
+    },
+    {
+      "id": "warthunder",
+      "nombre": "War Thunder",
+      "tipo": "link",
+      "consola": "pc",
+      "descripcion": "Combate de vehiculos militares (aire, tierra y mar). Gratis.",
+      "url": "https://warthunder.com/"
+    },
+    {
+      "id": "genshin",
+      "nombre": "Genshin Impact",
+      "tipo": "link",
+      "consola": "pc",
+      "descripcion": "RPG de accion de mundo abierto de HoYoverse. Gratis.",
+      "url": "https://genshin.hoyoverse.com/"
+    },
+    {
+      "id": "pathofexile",
+      "nombre": "Path of Exile",
+      "tipo": "link",
+      "consola": "pc",
+      "descripcion": "RPG de accion oscuro estilo Diablo. Gratis.",
+      "url": "https://www.pathofexile.com/"
+    },
+    {
+      "id": "brawlhalla",
+      "nombre": "Brawlhalla",
+      "tipo": "link",
+      "consola": "pc",
+      "descripcion": "Juego de peleas de plataformas, estilo Smash. Gratis.",
+      "url": "https://www.brawlhalla.com/"
+    },
+    {
+      "id": "rocketleague",
+      "nombre": "Rocket League",
+      "tipo": "link",
+      "consola": "pc",
+      "descripcion": "Futbol con autos a reaccion. Gratis.",
+      "url": "https://www.rocketleague.com/"
+    },
+    {
+      "id": "overwatch2",
+      "nombre": "Overwatch 2",
+      "tipo": "link",
+      "consola": "pc",
+      "descripcion": "Shooter de heroes por equipos, de Blizzard. Gratis.",
+      "url": "https://overwatch.blizzard.com/"
+    },
+    {
+      "id": "marvelrivals",
+      "nombre": "Marvel Rivals",
+      "tipo": "link",
+      "consola": "pc",
+      "descripcion": "Shooter de heroes 6v6 con personajes de Marvel. Gratis.",
+      "url": "https://www.marvelrivals.com/"
+    },
+    {
+      "id": "pubg",
+      "nombre": "PUBG: BATTLEGROUNDS",
+      "tipo": "link",
+      "consola": "pc",
+      "descripcion": "El battle royale realista que inicio el genero. Gratis.",
+      "url": "https://pubg.com/"
+    },
+	{
+      "id": "crash bandicoot",
+      "nombre": "Crash Bandicoot",
+      "consola": "ps1",
+      "descripcion": "crash ps1.",
+      "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/download/juegos/Crash.Bandicoot.Europe.Australia.zip"
+    },
+	{
+      "id": "tekken-tag-tournament-ps2",
+      "nombre": "Tekken Tag Tournament",
+      "consola": "ps2",
+      "descripcion": "El clásico juego de lucha 3D con equipos de dos personajes y combos espectaculares.",
+      "tamano": "1.2 GB",
+      "url": "https://drive.google.com/file/d/1UXmsG7RzxUnBtsQwRL4zwAw6SeJmGXZw/view?usp=drive_link"
+    },
+    {
+      "id": "marvel-vs-capcom-2-ps2",
+      "nombre": "Marvel vs. Capcom 2",
+      "consola": "ps2",
+      "descripcion": "Épico juego de lucha por equipos que une a los héroes y villanos de Marvel y Capcom.",
+      "tamano": "1.1 GB",
+      "url": "https://drive.google.com/file/d/1-UP4g-Zox9ScMztn2RkaScxgHMevw-iO/view?usp=drive_link"
+    },
+    {
+      "id": "hitman-blood-money-ps2",
+      "nombre": "Hitman: Blood Money",
+      "consola": "ps2",
+      "descripcion": "Infiltración y acción táctica donde eres el agente 47, un asesino a sueldo de élite.",
+      "tamano": "1.4 GB",
+      "url": "https://drive.google.com/file/d/1dNvtZVlnZ3V44Db9NOQ1nbDGtG0KaMbm/view?usp=drive_link"
+    },
+    {
+      "id": "urban-reign-ps2",
+      "nombre": "Urban Reign",
+      "consola": "ps2",
+      "descripcion": "Juego de pelea callejera beat 'em up desarrollado por Namco, con combates 1 contra 100.",
+      "tamano": "1.3 GB",
+      "url": "https://drive.google.com/file/d/1OqOJ5eVk4lTzGRgAtoN9uqYZff428dnK/view?usp=drive_link"
+    },
+    {
+      "id": "crash-nitro-kart-ps2",
+      "nombre": "Crash Nitro Kart",
+      "consola": "ps2",
+      "descripcion": "Carreras de karts a toda velocidad con Crash Bandicoot y sus amigos en pistas llenas de poderes.",
+      "tamano": "1.0 GB",
+      "url": "https://drive.google.com/file/d/1luFre0p-dzdDUexTb08MxMC52BO2QXl5/view?usp=drive_link"
+    },
+    {
+      "id": "simpsons-hit-run-ps2",
+      "nombre": "The Simpsons: Hit & Run",
+      "consola": "ps2",
+      "descripcion": "Aventura y conducción en mundo abierto ambientada en Springfield, al estilo GTA pero con los Simpson.",
+      "tamano": "1.3 GB",
+      "url": "https://drive.google.com/file/d/1qJNKm5pBtFSsNvru960-Bv3EuHin5LIe/view?usp=drive_link"
+    },
+    {
+      "id": "the-warriors-ps2",
+      "nombre": "The Warriors",
+      "consola": "ps2",
+      "descripcion": "Beat 'em up de acción basado en la película clásica, luchando para volver a Coney Island.",
+      "tamano": "1.2 GB",
+      "url": "https://drive.google.com/file/d/1j-BIUxBkU1CSV7_72xHvn6_wzDtLluD5/view?usp=drive_link"
+    },
+    {
+      "id": "rumble-racing-ps2",
+      "nombre": "Rumble Racing",
+      "consola": "ps2",
+      "descripcion": "Juego de carreras arcade con vehículos todoterreno y combates vehiculares en pistas caóticas.",
+      "tamano": "1.0 GB",
+      "url": "https://drive.google.com/file/d/1wIhoPVDeMqwxL86rutf1CXf2GnipLKHv/view?usp=drive_link"
+    },
+    {
+      "id": "wwe-smackdown-vs-raw-2011-ps2",
+      "nombre": "WWE SmackDown vs. Raw 2011",
+      "consola": "ps2",
+      "descripcion": "El simulador de lucha libre profesional con las mejores superestrellas y modos de carrera.",
+      "tamano": "1.4 GB",
+      "url": "https://drive.google.com/file/d/19tf_rGZW4WOgRQqoT2ozy4a9Fa29tEP4/view?usp=drive_link"
+    },
+    {
+      "id": "fifa-street-2-ps2",
+      "nombre": "FIFA Street 2",
+      "consola": "ps2",
+      "descripcion": "Fútbol callejero con trucos, freestyle y partidos 3 contra 3 en escenarios urbanos del mundo.",
+      "tamano": "1.1 GB",
+      "url": "https://drive.google.com/file/d/1eSKChHkakEMy8zwHau7cVmb_rT1eBd-2/view?usp=drive_link"
+    }	
+    ]
+    }
+
