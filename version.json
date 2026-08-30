@@ -1,5 +1,5 @@
 {
   "version": "1.20.2",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Novedades de esta versión:\n• Más pantallas traducidas: la Tienda y la pestaña Emuladores ahora también están en Inglés, Portugués, Francés e Italiano (Ajustes → Idioma)."
+  "notas": "Novedades de esta versión:\n• La Tienda y la pestaña Emuladores ahora también están en Inglés, Portugués, Francés e Italiano (Ajustes → Idioma).\n• Arreglo: los archivos de BIOS ya no aparecen como juegos en la Biblioteca.\n• Arreglo: al instalar un juego, el botón muestra “Instalando…” y recuerda la descarga aunque cambies de pestaña (y ya no se puede instalar dos veces el mismo juego)."
 }
