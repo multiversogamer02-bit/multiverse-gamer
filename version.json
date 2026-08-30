@@ -1,5 +1,5 @@
 {
-  "version": "1.20.0",
+  "version": "1.20.1",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Novedades de esta versión:\n• Multi-idioma: la app ahora se puede poner en Inglés, Portugués, Francés o Italiano (Ajustes → Idioma).\n• Asistente de BIOS mejorado: instalá tu propio BIOS con un clic (PS1, PS2, PS4), incluso desde tu carpeta de juegos, y descargá el firmware oficial de Sony para PS3.\n• Nuevos emuladores: Nintendo Switch (Ryujinx) y Xbox clásico (xemu).\n• Botón para actualizar tus emuladores a la última versión."
+  "notas": "Novedades de esta versión:\n• Nuevo botón para instalar Sunshine (el server de streaming) con un clic, desde la pestaña Streaming. Baja el instalador oficial y lo abre solo, sin buscar nada a mano."
 }
