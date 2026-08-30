@@ -4,6 +4,7 @@
       "id": "driar-nes",
       "nombre": "Driar",
       "consola": "nes",
+      "region": "Mundial",
       "descripcion": "Plataformas-puzzle homebrew, gratis y de distribucion libre.",
       "tamano": "128 KB",
       "url": "https://raw.githubusercontent.com/retrobrews/nes-games/master/driar.nes"
@@ -12,16 +13,17 @@
       "id": "anguna-gba",
       "nombre": "Anguna",
       "consola": "gba",
+      "region": "Mundial",
       "descripcion": "Aventura de accion estilo Zelda, homebrew gratuito para Game Boy Advance.",
       "tamano": "1.7 MB",
       "url": "https://raw.githubusercontent.com/retrobrews/gba-games/master/anguna.gba"
     },
-
     {
       "id": "fortnite",
       "nombre": "Fortnite",
       "tipo": "link",
       "consola": "pc",
+      "region": "Mundial",
       "descripcion": "Battle royale de Epic Games. Gratis.",
       "url": "https://www.fortnite.com/"
     },
@@ -30,6 +32,7 @@
       "nombre": "Valorant",
       "tipo": "link",
       "consola": "pc",
+      "region": "Mundial",
       "descripcion": "Shooter tactico 5v5 de Riot Games. Gratis.",
       "url": "https://playvalorant.com/"
     },
@@ -38,6 +41,7 @@
       "nombre": "League of Legends",
       "tipo": "link",
       "consola": "pc",
+      "region": "Mundial",
       "descripcion": "El MOBA mas jugado del mundo, de Riot Games. Gratis.",
       "url": "https://www.leagueoflegends.com/"
     },
@@ -46,6 +50,7 @@
       "nombre": "Apex Legends",
       "tipo": "link",
       "consola": "pc",
+      "region": "Mundial",
       "descripcion": "Battle royale de heroes de EA. Gratis.",
       "url": "https://www.ea.com/games/apex-legends"
     },
@@ -54,6 +59,7 @@
       "nombre": "Counter-Strike 2",
       "tipo": "link",
       "consola": "pc",
+      "region": "Mundial",
       "descripcion": "El shooter competitivo clasico de Valve. Gratis.",
       "url": "https://store.steampowered.com/app/730/"
     },
@@ -62,6 +68,7 @@
       "nombre": "Dota 2",
       "tipo": "link",
       "consola": "pc",
+      "region": "Mundial",
       "descripcion": "MOBA de Valve, profundo y competitivo. Gratis.",
       "url": "https://www.dota2.com/"
     },
@@ -70,6 +77,7 @@
       "nombre": "Team Fortress 2",
       "tipo": "link",
       "consola": "pc",
+      "region": "Mundial",
       "descripcion": "Shooter por clases, un clasico de Valve. Gratis.",
       "url": "https://store.steampowered.com/app/440/"
     },
@@ -78,6 +86,7 @@
       "nombre": "Warframe",
       "tipo": "link",
       "consola": "pc",
+      "region": "Mundial",
       "descripcion": "Accion cooperativa sci-fi de ninjas espaciales. Gratis.",
       "url": "https://www.warframe.com/"
     },
@@ -86,6 +95,7 @@
       "nombre": "World of Warships",
       "tipo": "link",
       "consola": "pc",
+      "region": "Mundial",
       "descripcion": "Combate naval por equipos, de Wargaming. Gratis.",
       "url": "https://worldofwarships.com/"
     },
@@ -94,6 +104,7 @@
       "nombre": "World of Tanks",
       "tipo": "link",
       "consola": "pc",
+      "region": "Mundial",
       "descripcion": "Batallas de tanques por equipos, de Wargaming. Gratis.",
       "url": "https://worldoftanks.com/"
     },
@@ -102,6 +113,7 @@
       "nombre": "War Thunder",
       "tipo": "link",
       "consola": "pc",
+      "region": "Mundial",
       "descripcion": "Combate de vehiculos militares (aire, tierra y mar). Gratis.",
       "url": "https://warthunder.com/"
     },
@@ -110,6 +122,7 @@
       "nombre": "Genshin Impact",
       "tipo": "link",
       "consola": "pc",
+      "region": "Mundial",
       "descripcion": "RPG de accion de mundo abierto de HoYoverse. Gratis.",
       "url": "https://genshin.hoyoverse.com/"
     },
@@ -118,6 +131,7 @@
       "nombre": "Path of Exile",
       "tipo": "link",
       "consola": "pc",
+      "region": "Mundial",
       "descripcion": "RPG de accion oscuro estilo Diablo. Gratis.",
       "url": "https://www.pathofexile.com/"
     },
@@ -126,6 +140,7 @@
       "nombre": "Brawlhalla",
       "tipo": "link",
       "consola": "pc",
+      "region": "Mundial",
       "descripcion": "Juego de peleas de plataformas, estilo Smash. Gratis.",
       "url": "https://www.brawlhalla.com/"
     },
@@ -134,6 +149,7 @@
       "nombre": "Rocket League",
       "tipo": "link",
       "consola": "pc",
+      "region": "Mundial",
       "descripcion": "Futbol con autos a reaccion. Gratis.",
       "url": "https://www.rocketleague.com/"
     },
@@ -142,6 +158,7 @@
       "nombre": "Overwatch 2",
       "tipo": "link",
       "consola": "pc",
+      "region": "Mundial",
       "descripcion": "Shooter de heroes por equipos, de Blizzard. Gratis.",
       "url": "https://overwatch.blizzard.com/"
     },
@@ -150,6 +167,7 @@
       "nombre": "Marvel Rivals",
       "tipo": "link",
       "consola": "pc",
+      "region": "Mundial",
       "descripcion": "Shooter de heroes 6v6 con personajes de Marvel. Gratis.",
       "url": "https://www.marvelrivals.com/"
     },
@@ -158,20 +176,23 @@
       "nombre": "PUBG: BATTLEGROUNDS",
       "tipo": "link",
       "consola": "pc",
+      "region": "Mundial",
       "descripcion": "El battle royale realista que inicio el genero. Gratis.",
       "url": "https://pubg.com/"
     },
-	{
+    {
       "id": "crash bandicoot",
       "nombre": "Crash Bandicoot",
       "consola": "ps1",
+      "region": "Europa",
       "descripcion": "crash ps1.",
       "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/download/juegos/Crash.Bandicoot.Europe.Australia.zip"
     },
-	{
+    {
       "id": "tekken-tag-tournament-ps2",
       "nombre": "Tekken Tag Tournament",
       "consola": "ps2",
+      "region": "Europa",
       "descripcion": "El clásico juego de lucha 3D con equipos de dos personajes y combos espectaculares.",
       "tamano": "1.2 GB",
       "url": "https://drive.google.com/file/d/1UXmsG7RzxUnBtsQwRL4zwAw6SeJmGXZw/view?usp=drive_link"
@@ -180,6 +201,7 @@
       "id": "marvel-vs-capcom-2-ps2",
       "nombre": "Marvel vs. Capcom 2",
       "consola": "ps2",
+      "region": "Europa",
       "descripcion": "Épico juego de lucha por equipos que une a los héroes y villanos de Marvel y Capcom.",
       "tamano": "1.1 GB",
       "url": "https://drive.google.com/file/d/1-UP4g-Zox9ScMztn2RkaScxgHMevw-iO/view?usp=drive_link"
@@ -188,6 +210,7 @@
       "id": "hitman-blood-money-ps2",
       "nombre": "Hitman: Blood Money",
       "consola": "ps2",
+      "region": "Europa",
       "descripcion": "Infiltración y acción táctica donde eres el agente 47, un asesino a sueldo de élite.",
       "tamano": "1.4 GB",
       "url": "https://drive.google.com/file/d/1dNvtZVlnZ3V44Db9NOQ1nbDGtG0KaMbm/view?usp=drive_link"
@@ -196,6 +219,7 @@
       "id": "urban-reign-ps2",
       "nombre": "Urban Reign",
       "consola": "ps2",
+      "region": "Europa",
       "descripcion": "Juego de pelea callejera beat 'em up desarrollado por Namco, con combates 1 contra 100.",
       "tamano": "1.3 GB",
       "url": "https://drive.google.com/file/d/1OqOJ5eVk4lTzGRgAtoN9uqYZff428dnK/view?usp=drive_link"
@@ -204,6 +228,7 @@
       "id": "crash-nitro-kart-ps2",
       "nombre": "Crash Nitro Kart",
       "consola": "ps2",
+      "region": "Europa",
       "descripcion": "Carreras de karts a toda velocidad con Crash Bandicoot y sus amigos en pistas llenas de poderes.",
       "tamano": "1.0 GB",
       "url": "https://drive.google.com/file/d/1luFre0p-dzdDUexTb08MxMC52BO2QXl5/view?usp=drive_link"
@@ -212,6 +237,7 @@
       "id": "simpsons-hit-run-ps2",
       "nombre": "The Simpsons: Hit & Run",
       "consola": "ps2",
+      "region": "Europa",
       "descripcion": "Aventura y conducción en mundo abierto ambientada en Springfield, al estilo GTA pero con los Simpson.",
       "tamano": "1.3 GB",
       "url": "https://drive.google.com/file/d/1qJNKm5pBtFSsNvru960-Bv3EuHin5LIe/view?usp=drive_link"
@@ -220,6 +246,7 @@
       "id": "the-warriors-ps2",
       "nombre": "The Warriors",
       "consola": "ps2",
+      "region": "Europa",
       "descripcion": "Beat 'em up de acción basado en la película clásica, luchando para volver a Coney Island.",
       "tamano": "1.2 GB",
       "url": "https://drive.google.com/file/d/1j-BIUxBkU1CSV7_72xHvn6_wzDtLluD5/view?usp=drive_link"
@@ -228,6 +255,7 @@
       "id": "rumble-racing-ps2",
       "nombre": "Rumble Racing",
       "consola": "ps2",
+      "region": "Europa",
       "descripcion": "Juego de carreras arcade con vehículos todoterreno y combates vehiculares en pistas caóticas.",
       "tamano": "1.0 GB",
       "url": "https://drive.google.com/file/d/1wIhoPVDeMqwxL86rutf1CXf2GnipLKHv/view?usp=drive_link"
@@ -236,6 +264,7 @@
       "id": "wwe-smackdown-vs-raw-2011-ps2",
       "nombre": "WWE SmackDown vs. Raw 2011",
       "consola": "ps2",
+      "region": "Europa",
       "descripcion": "El simulador de lucha libre profesional con las mejores superestrellas y modos de carrera.",
       "tamano": "1.4 GB",
       "url": "https://drive.google.com/file/d/19tf_rGZW4WOgRQqoT2ozy4a9Fa29tEP4/view?usp=drive_link"
@@ -244,386 +273,432 @@
       "id": "fifa-street-2-ps2",
       "nombre": "FIFA Street 2",
       "consola": "ps2",
+      "region": "Europa",
       "descripcion": "Fútbol callejero con trucos, freestyle y partidos 3 contra 3 en escenarios urbanos del mundo.",
       "tamano": "1.1 GB",
       "url": "https://drive.google.com/file/d/1eSKChHkakEMy8zwHau7cVmb_rT1eBd-2/view?usp=drive_link"
     },
-	  {
-    "id": "devil-may-cry-ps2",
-    "nombre": "Devil May Cry",
-    "consola": "ps2",
-    "descripcion": "El aclamado juego de acción y hack and slash donde controlas a Dante, un cazador de demonios con estilo.",
-    "tamano": "1.2 GB",
-    "url": "https://drive.google.com/file/d/1q-LzFYBngWr-ayvASA-j91aBmsVHq7PV/view?usp=drive_link"
-  },
-  {
-    "id": "guitar-hero-iii-legends-of-rock-ps2",
-    "nombre": "Guitar Hero III: Legends of Rock",
-    "consola": "ps2",
-    "descripcion": "El icónico juego de ritmo musical que te permite tocar guitarra en canciones de rock legendarias.",
-    "tamano": "1.5 GB",
-    "url": "https://drive.google.com/file/d/1mVKCoH0k_3AMY0i53GHr7TRSL0cHFB82/view?usp=drive_link"
-  },
-  {
-    "id": "pes-2013-ps2",
-    "nombre": "Pro Evolution Soccer 2013",
-    "consola": "ps2",
-    "descripcion": "Simulador de fútbol con jugabilidad pulida, licencias actualizadas y el clásico modo Master League.",
-    "tamano": "1.4 GB",
-    "url": "https://drive.google.com/file/d/1R_f0PAMFhoqqnojzvVkrBYRbpFwbDJ9G/view?usp=drive_link"
-  },
-  {
-    "id": "call-of-duty-3-ps2",
-    "nombre": "Call of Duty 3",
-    "consola": "ps2",
-    "descripcion": "Intenso shooter en primera persona ambientado en la Segunda Guerra Mundial, con campañas épicas y multijugador.",
-    "tamano": "1.3 GB",
-    "url": "https://drive.google.com/file/d/1vo3dvZslw7lwic7cz72UvbN4nfAnQ0uV/view?usp=drive_link"
-  },
-  {
-    "id": "ultimate-spider-man-ps2",
-    "nombre": "Ultimate Spider-Man",
-    "consola": "ps2",
-    "descripcion": "Aventura de acción basada en el cómic, con jugabilidad que alterna entre Spider-Man y Venom en un mundo abierto.",
-    "tamano": "1.2 GB",
-    "url": "https://drive.google.com/file/d/1DcewIni-yzWfNRdc3HHbKVAP0f-WflHB/view?usp=drive_link"
-  },
-  {
-    "id": "mortal-kombat-armageddon-ps2",
-    "nombre": "Mortal Kombat: Armageddon",
-    "consola": "ps2",
-    "descripcion": "El enfrentamiento final de la saga con un roster gigantesco, fatalities y el modo de creación de personajes.",
-    "tamano": "1.4 GB",
-    "url": "https://drive.google.com/file/d/1T7zhExdWHLmo_GAnkleDXQHtSV7mTFLT/view?usp=drive_link"
-  },
-  {
-    "id": "burnout-3-takedown-ps2",
-    "nombre": "Burnout 3: Takedown",
-    "consola": "ps2",
-    "descripcion": "Carreras arcade de alta velocidad centradas en choques espectaculares y derribos a oponentes.",
-    "tamano": "1.1 GB",
-    "url": "https://drive.google.com/file/d/1GF0npluVEQsp7ghy7FR5WVenSAiAQh_q/view?usp=drive_link"
-  },
-  {
-    "id": "crash-bandicoot-the-wrath-of-cortex-ps2",
-    "nombre": "Crash Bandicoot: The Wrath of Cortex",
-    "consola": "ps2",
-    "descripcion": "Las aventuras de Crash continúan en PS2, enfrentándose a nuevos villanos y desafíos de plataformas 3D.",
-    "tamano": "1.2 GB",
-    "url": "https://drive.google.com/file/d/1sgZ3PdOa9IHWvIUDdEIDiF8u2j2p-IcQ/view?usp=drive_link"
-  },
-  {
-    "id": "dragon-ball-z-budokai-3-ps2",
-    "nombre": "Dragon Ball Z: Budokai 3",
-    "consola": "ps2",
-    "descripcion": "Uno de los mejores juegos de lucha de Dragon Ball Z, con un sistema de combate profundo, celdas de habilidad y gran roster.",
-    "tamano": "1.3 GB",
-    "url": "https://drive.google.com/file/d/1BPdjMq-l1K-8eXQiS5R4exHmvHYpuBQx/view?usp=drive_link"
-  },
-  {
-    "id": "need-for-speed-most-wanted-black-edition-ps2",
-    "nombre": "Need for Speed: Most Wanted - Black Edition",
-    "consola": "ps2",
-    "descripcion": "Carreras clandestinas, persecuciones policiales y una lista negra de 15 rivales a los que debes derrotar.",
-    "tamano": "1.4 GB",
-    "url": "https://drive.google.com/file/d/1FHjzMaGInslNUCQbS3wB6ra-il7azt5b/view?usp=drive_link"
-  },
-  {
-    "id": "ultraman-fighting-evolution-3-ps2",
-    "nombre": "Ultraman Fighting Evolution 3",
-    "consola": "ps2",
-    "descripcion": "Juego de lucha 3D con los héroes y monstruos clásicos de Ultraman, destacando por su increíble modo historia.",
-    "tamano": "1.2 GB",
-    "url": "https://drive.google.com/file/d/1ZTzuGBz4ynjfVssgQ7B40kQXbvmKVyLp/view?usp=drive_link"
-  },
-{
-    "id": "devil-may-cry-3-dantes-awakening-ps2",
-    "nombre": "Devil May Cry 3: Dante's Awakening",
-    "consola": "ps2",
-    "descripcion": "La precuela que redefine el género hack and slash con un sistema de combate profundo, desafiante y muy estilizado.",
-    "tamano": "1.4 GB",
-    "url": "https://drive.google.com/file/d/1LRy9njao-6qGjnRpF5ritaU2blAa5DO6/view?usp=drive_link"
-  },
-  {
-    "id": "grand-theft-auto-vice-city-ps2",
-    "nombre": "Grand Theft Auto: Vice City",
-    "consola": "ps2",
-    "descripcion": "Aventura de mundo abierto ambientada en los años 80, con una banda sonora icónica y misiones memorables.",
-    "tamano": "1.5 GB",
-    "url": "https://drive.google.com/file/d/1YGkIBe5Kv8GKx7h8p0IHSPqf_qQiqyBg/view?usp=drive_link"
-  },
-  {
-    "id": "super-bomba-patch-2026-ps2",
-    "nombre": "Super Bomba Patch 2026",
-    "consola": "ps2",
-    "descripcion": "La versión más actualizada y completa del clásico mod de fútbol para PS2, con equipos, ligas y transferencias reales.",
-    "tamano": "1.5 GB",
-    "url": "https://drive.google.com/file/d/1cY1XOOek9Gq9vYxNGCacizpEnOlbJ8wO/view?usp=drive_link"
-  },
-  {
-    "id": "dragon-ball-z-budokai-tenkaichi-4-ps2",
-    "nombre": "Dragon Ball Z: Budokai Tenkaichi 4",
-    "consola": "ps2",
-    "descripcion": "El esperado juego de lucha 3D de Dragon Ball Z con batallas aéreas, transformaciones y un roster gigante.",
-    "tamano": "1.4 GB",
-    "url": "https://drive.google.com/file/d/1YXH0gD-zpy27iYIX0xA1CdkFCOJ3Y6Gu/view?usp=drive_link"
-  },
-  {
-    "id": "midnight-club-3-dub-edition-remix-ps2",
-    "nombre": "Midnight Club 3: DUB Edition Remix",
-    "consola": "ps2",
-    "descripcion": "Carreras callejeras de mundo abierto con personalización extrema de vehículos y bandas sonoras de hip-hop y rock.",
-    "tamano": "1.3 GB",
-    "url": "https://drive.google.com/file/d/1-BdOa8-t2Wx9JV1Qwd-CG2KNH1x2jt-8/view?usp=drive_link"
-  },
-  {
-    "id": "gta-san-andreas-definitive-edition-ps2",
-    "nombre": "GTA San Andreas Definitive Edition",
-    "consola": "ps2",
-    "descripcion": "La versión mejorada del clásico de mundo abierto, con gráficos actualizados y misiones en tres ciudades distintas.",
-    "tamano": "1.5 GB",
-    "url": "https://drive.google.com/file/d/1fpMNIxNj1k1aDuJ3BxCu7UzCUGenifEX/view?usp=drive_link"
-  },
-  {
-    "id": "canis-canem-edit-ps2",
-    "nombre": "Canis Canem Edit",
-    "consola": "ps2",
-    "descripcion": "Aventura de mundo abierto en un internado, donde debes sobrevivir a las clases, matones y travesuras escolares.",
-    "tamano": "1.3 GB",
-    "url": "https://drive.google.com/file/d/1tv8K1QAa4o9vCTPHpmiiysl9f7CuOHTA/view?usp=drive_link"
-  },
-  {
-    "id": "efootball-2026-ps2",
-    "nombre": "eFootball 2026",
-    "consola": "ps2",
-    "descripcion": "La evolución del simulador de fútbol con jugabilidad realista, plantillas actualizadas y modos de carrera.",
-    "tamano": "1.4 GB",
-    "url": "https://drive.google.com/file/d/1BAi3IGnhyURiJrH0N1wvKI1xDqZUfq_E/view?usp=drive_link"
-  },
-  {
-    "id": "def-jam-fight-for-ny-ps2",
-    "nombre": "Def Jam: Fight for NY",
-    "consola": "ps2",
-    "descripcion": "Juego de lucha callejera con artistas reales de hip-hop, combates en escenarios interactivos y creación de luchador.",
-    "tamano": "1.3 GB",
-    "url": "https://drive.google.com/file/d/1daz6xXJxP8_5BB3-hxE08Rdpn-IdczM-/view?usp=drive_link"
-  },
-   {
-    "id": "shadow-of-the-colossus-ps2",
-    "nombre": "Shadow of the Colossus",
-    "consola": "ps2",
-    "descripcion": "Obra maestra de acción y aventura donde debes derrotar a 16 colosos gigantes en un mundo desolado y hermoso.",
-    "tamano": "1.4 GB",
-    "url": "https://drive.google.com/file/d/1Iix4c2Zu4uFCHDBNi7474pplHb2hj7Gt/view?usp=drive_link"
-  },
-  {
-    "id": "pes-2014-pro-evolution-soccer-ps2",
-    "nombre": "PES 2014: Pro Evolution Soccer",
-    "consola": "ps2",
-    "descripcion": "Simulador de fútbol con el motor Fox Engine, ofreciendo jugabilidad realista y licencias de equipos mundiales.",
-    "tamano": "1.4 GB",
-    "url": "https://drive.google.com/file/d/1E_tMBv4Z5jZ74qMp98YUEj1CXAe9WRso/view?usp=drive_link"
-  },
-  {
-    "id": "gran-turismo-4-ps2",
-    "nombre": "Gran Turismo 4",
-    "consola": "ps2",
-    "descripcion": "El simulador de conducción definitivo de PS2 con más de 700 autos y circuitos detallados de todo el mundo.",
-    "tamano": "1.5 GB",
-    "url": "https://drive.google.com/file/d/1pou5b9goxCcC9WwiFN40phNiPpY9O2r8/view?usp=drive_link"
-  },
-  {
-    "id": "sengoku-basara-2-heroes-ps2",
-    "nombre": "Sengoku Basara 2: Heroes",
-    "consola": "ps2",
-    "descripcion": "Juego de acción hack and slash ambientado en el Japón feudal, con personajes históricos estilizados y combos frenéticos.",
-    "tamano": "1.3 GB",
-    "url": "https://drive.google.com/file/d/1vQRNajVKDPM1Lu7zg8eEozKxq6FajMTk/view?usp=drive_link"
-  },
-  {
-    "id": "naruto-shippuden-ultimate-ninja-5-ps2",
-    "nombre": "Naruto Shippuden: Ultimate Ninja 5",
-    "consola": "ps2",
-    "descripcion": "Juego de lucha y aventura basado en el anime, con un modo historia épico y un amplio roster de ninjas.",
-    "tamano": "1.3 GB",
-    "url": "https://drive.google.com/file/d/1T3jkqlz1OwTTCz4xDbuT-bzZKW5fKFWx/view?usp=drive_link"
-  },
-  {
-    "id": "mortal-kombat-shaolin-monks-ps2",
-    "nombre": "Mortal Kombat: Shaolin Monks",
-    "consola": "ps2",
-    "descripcion": "Aventura de acción cooperativa que reimagina los eventos de MK2 desde la perspectiva de Liu Kang y Kung Lao.",
-    "tamano": "1.2 GB",
-    "url": "https://drive.google.com/file/d/1DNFsBCFGuhWfMfChjwe6e0uMLXsTfghY/view?usp=drive_link"
-  },
-  {
-    "id": "tekken-4-ps2",
-    "nombre": "Tekken 4",
-    "consola": "ps2",
-    "descripcion": "El regreso de la saga de lucha 3D a PS2, introduciendo escenarios interactivos y un sistema de combate más técnico.",
-    "tamano": "1.2 GB",
-    "url": "https://drive.google.com/file/d/1sKH30NvJwH3etLl6Hefl_7lei469RhIk/view?usp=drive_link"
-  },
-  {
-    "id": "need-for-speed-most-wanted-ps2",
-    "nombre": "Need for Speed: Most Wanted",
-    "consola": "ps2",
-    "descripcion": "Carreras clandestinas y persecuciones policiales intensas en una ciudad de mundo abierto llena de rivales.",
-    "tamano": "1.3 GB",
-    "url": "https://drive.google.com/file/d/1ls7xo26Hp1DlgbHTa91MG6mNiPgvaIPq/view?usp=drive_link"
-  },
-  {
-    "id": "god-hand-ps2",
-    "nombre": "God Hand",
-    "consola": "ps2",
-    "descripcion": "Beat 'em up de acción desafiante y con mucho humor, creado por Clover Studio, con un sistema de combate personalizable.",
-    "tamano": "1.2 GB",
-    "url": "https://drive.google.com/file/d/113LeJDUhF03n-VhbTCDzAd6iwUIEHcln/view?usp=drive_link"
-  },
-  {
-    "id": "downhill-domination-ps2",
-    "nombre": "Downhill Domination",
-    "consola": "ps2",
-    "descripcion": "Juego de carreras de mountain bike extremo con saltos, trucos y combate entre ciclistas en montañas peligrosas.",
-    "tamano": "1.1 GB",
-    "url": "https://drive.google.com/file/d/1wD3Y3__XppkY2Ywu3rMpWu_2ah-qnxSZ/view?usp=drive_link"
-  }, 
-  {
-    "id": "black-ps2",
-    "nombre": "Black",
-    "consola": "ps2",
-    "descripcion": "Shooter en primera persona explosivo y cinematográfico, conocido por su impresionante diseño de sonido y destrucción de escenarios.",
-    "tamano": "1.4 GB",
-    "url": "https://drive.google.com/file/d/1Pzz8ofJQ7sx_NSDHTBI7uEK2G2tRu0Ir/view?usp=drive_link"
-  },
-  {
-    "id": "dragon-ball-z-budokai-tenkaichi-3-ps2",
-    "nombre": "Dragon Ball Z: Budokai Tenkaichi 3",
-    "consola": "ps2",
-    "descripcion": "El juego de lucha 3D definitivo de Dragon Ball Z con el roster más grande, batallas aéreas y transformaciones icónicas.",
-    "tamano": "1.4 GB",
-    "url": "https://drive.google.com/file/d/1EOuAbYSpz3tQyERR5t1ttG7d0e53pO3Q/view?usp=drive_link"
-  },
-  {
-    "id": "wwe-smackdown-here-comes-the-pain-ps2",
-    "nombre": "WWE SmackDown! Here Comes the Pain",
-    "consola": "ps2",
-    "descripcion": "Considerado uno de los mejores juegos de lucha libre de la historia, con un modo historia profundo y jugabilidad sólida.",
-    "tamano": "1.3 GB",
-    "url": "https://drive.google.com/file/d/1me6w9hV10wXSwFvxSJpntBt490_gI7AJ/view?usp=drive_link"
-  },
-  {
-    "id": "need-for-speed-underground-2-ps2",
-    "nombre": "Need for Speed: Underground 2",
-    "consola": "ps2",
-    "descripcion": "Carreras nocturnas de mundo abierto con personalización extrema de vehículos y una banda sonora legendaria.",
-    "tamano": "1.3 GB",
-    "url": "https://drive.google.com/file/d/174FeGGzfriazrKpUDHpUaxife0RCx7-t/view?usp=drive_link"
-  },
-  {
-    "id": "grand-theft-auto-san-andreas-ps2",
-    "nombre": "Grand Theft Auto: San Andreas",
-    "consola": "ps2",
-    "descripcion": "El clásico juego de mundo abierto que definió una generación, con tres ciudades, misiones épicas y personalización del personaje.",
-    "tamano": "1.5 GB",
-    "url": "https://drive.google.com/file/d/1laUG7IyHWWkmPzL1iW2g0xGLg-Lo7DCy/view?usp=drive_link"
-  },
-  {
-    "id": "resident-evil-4-ps2",
-    "nombre": "Resident Evil 4",
-    "consola": "ps2",
-    "descripcion": "El revolucionario juego de terror y acción en tercera persona que redefinió el género con Leon S. Kennedy.",
-    "tamano": "1.4 GB",
-    "url": "https://drive.google.com/file/d/1Ko4SUrx7b_WmJhB9yN6oBbCFHHp5pz83/view?usp=drive_link"
-  },
-  {
-    "id": "god-of-war-ps2",
-    "nombre": "God of War",
-    "consola": "ps2",
-    "descripcion": "La épica aventura de acción de Kratos, llena de combates brutales, puzzles y mitología griega.",
-    "tamano": "1.4 GB",
-    "url": "https://drive.google.com/file/d/1-ADbqg9W--jw2U0mMREKgVwkoqx1aRsL/view?usp=drive_link"
-  },
-  {
-    "id": "god-of-war-2-ps2",
-    "nombre": "God of War II",
-    "consola": "ps2",
-    "descripcion": "La secuela directa que expande la escala y la acción, llevando a Kratos a desafiar a los dioses del Olimpo.",
-    "tamano": "1.5 GB",
-    "url": "https://drive.google.com/file/d/1VeQ5sBnxbKOky6etju6LUimzidX2fqVj/view?usp=drive_link"
-  },
-  {
-    "id": "bios-ps2",
-    "nombre": "BIOS de PS2",
-    "consola": "ps2",
-    "descripcion": "Archivo de BIOS del sistema necesario para emular la PlayStation 2. Imprescindible para que los juegos funcionen correctamente en el emulador.",
-    "tamano": "4 MB",
-    "url": "https://drive.google.com/file/d/1Lbq8Sh681IUADOPM2KSrOfU_ZYNGcdMb/view?usp=drive_link"
-  },
-  {
-    "id": "god-of-war-iii-ps3",
-    "nombre": "God of War III",
-    "consola": "ps3",
-    "descripcion": "La épica conclusión de la trilogía original de Kratos, con combates a gran escala, puzzles y gráficos impresionantes.",
-    "tamano": "10 GB",
-    "url": "https://drive.google.com/file/d/1yxJ2c2Y4x6aerIzGNV1sPZldkmSYALe4/view?usp=drive_link"
-  },
-  {
-    "id": "god-of-war-ascension-ps3",
-    "nombre": "God of War: Ascension",
-    "consola": "ps3",
-    "descripcion": "La precuela de la saga que explora el pasado de Kratos y su ruptura con Ares, introduciendo un modo multijugador innovador.",
-    "tamano": "12 GB",
-    "url": "https://drive.google.com/file/d/1gEd2WeH7dUTFDzKAHGfNhNu2Z0ihxd44/view?usp=drive_link"
-  },
-  {
-    "id": "god-of-war-collection-ps3",
-    "nombre": "God of War Collection",
-    "consola": "ps3",
-    "descripcion": "Remasterización en alta definición de God of War y God of War II, con rendimiento a 60 FPS y soporte para trofeos.",
-    "tamano": "14 GB",
-    "url": "https://drive.google.com/file/d/1kVI4nPohkjNuNlt0RavMLqcLhhcQOQuJ/view?usp=drive_link"
-  },
-  {
-    "id": "call-of-duty-advanced-warfare-ps3",
-    "nombre": "Call of Duty: Advanced Warfare",
-    "consola": "ps3",
-    "descripcion": "Shooter en primera persona futurista con movimiento exoesquelético, campañas cinematográficas y multijugador dinámico.",
-    "tamano": "15 GB",
-    "url": "https://drive.google.com/file/d/1gTSIxn8rJl_7D-btxrUWFKg-IvTUIfn7/view?usp=drive_link"
-  },
-  {
-    "id": "grand-theft-auto-san-andreas-ps3",
-    "nombre": "Grand Theft Auto: San Andreas",
-    "consola": "ps3",
-    "descripcion": "La versión remasterizada para PS3 del clásico de mundo abierto, con mejores gráficos, iluminación y soporte para trofeos.",
-    "tamano": "8 GB",
-    "url": "https://drive.google.com/file/d/1p6d2OBs7yMtjjYjSIG70zgGQ1Co3h48i/view?usp=drive_link"
-  },
-  {
-    "id": "grand-theft-auto-v-ps3",
-    "nombre": "Grand Theft Auto V",
-    "consola": "ps3",
-    "descripcion": "El aclamado juego de mundo abierto con tres protagonistas, misiones elaboradas, robos y un vasto mapa lleno de detalles.",
-    "tamano": "18 GB",
-    "url": "https://drive.google.com/file/d/1e941udy6rFYc8Resf_nwYy9-KPrwTmF1/view?usp=drive_link"
-  },
-  {
-    "id": "minecraft-playstation-3-edition-ps3",
-    "nombre": "Minecraft: PlayStation 3 Edition",
-    "consola": "ps3",
-    "descripcion": "El fenómeno mundial de construcción y supervivencia, adaptado perfectamente con controles y contenido exclusivo para la consola.",
-    "tamano": "2 GB",
-    "url": "https://drive.google.com/file/d/1KHPpcLYfSzcdLMLSAyaZlR5kvHvgGvXh/view?usp=drive_link"
-  },
-  {
-    "id": "bios-ps3",
-    "nombre": "BIOS de PS3",
-    "consola": "ps3",
-    "descripcion": "Archivo de BIOS del sistema necesario para emular la PlayStation 3 (por ejemplo, en RPCS3). Imprescindible para que los juegos funcionen correctamente.",
-    "tamano": "15 MB",
-    "url": "https://drive.google.com/file/d/1Aa_PCjnA2GbXmn4jk0U--0xFCmbE-acK/view?usp=drive_link"
+    {
+      "id": "devil-may-cry-ps2",
+      "nombre": "Devil May Cry",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "El aclamado juego de acción y hack and slash donde controlas a Dante, un cazador de demonios con estilo.",
+      "tamano": "1.2 GB",
+      "url": "https://drive.google.com/file/d/1q-LzFYBngWr-ayvASA-j91aBmsVHq7PV/view?usp=drive_link"
+    },
+    {
+      "id": "guitar-hero-iii-legends-of-rock-ps2",
+      "nombre": "Guitar Hero III: Legends of Rock",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "El icónico juego de ritmo musical que te permite tocar guitarra en canciones de rock legendarias.",
+      "tamano": "1.5 GB",
+      "url": "https://drive.google.com/file/d/1mVKCoH0k_3AMY0i53GHr7TRSL0cHFB82/view?usp=drive_link"
+    },
+    {
+      "id": "pes-2013-ps2",
+      "nombre": "Pro Evolution Soccer 2013",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "Simulador de fútbol con jugabilidad pulida, licencias actualizadas y el clásico modo Master League.",
+      "tamano": "1.4 GB",
+      "url": "https://drive.google.com/file/d/1R_f0PAMFhoqqnojzvVkrBYRbpFwbDJ9G/view?usp=drive_link"
+    },
+    {
+      "id": "call-of-duty-3-ps2",
+      "nombre": "Call of Duty 3",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "Intenso shooter en primera persona ambientado en la Segunda Guerra Mundial, con campañas épicas y multijugador.",
+      "tamano": "1.3 GB",
+      "url": "https://drive.google.com/file/d/1vo3dvZslw7lwic7cz72UvbN4nfAnQ0uV/view?usp=drive_link"
+    },
+    {
+      "id": "ultimate-spider-man-ps2",
+      "nombre": "Ultimate Spider-Man",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "Aventura de acción basada en el cómic, con jugabilidad que alterna entre Spider-Man y Venom en un mundo abierto.",
+      "tamano": "1.2 GB",
+      "url": "https://drive.google.com/file/d/1DcewIni-yzWfNRdc3HHbKVAP0f-WflHB/view?usp=drive_link"
+    },
+    {
+      "id": "mortal-kombat-armageddon-ps2",
+      "nombre": "Mortal Kombat: Armageddon",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "El enfrentamiento final de la saga con un roster gigantesco, fatalities y el modo de creación de personajes.",
+      "tamano": "1.4 GB",
+      "url": "https://drive.google.com/file/d/1T7zhExdWHLmo_GAnkleDXQHtSV7mTFLT/view?usp=drive_link"
+    },
+    {
+      "id": "burnout-3-takedown-ps2",
+      "nombre": "Burnout 3: Takedown",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "Carreras arcade de alta velocidad centradas en choques espectaculares y derribos a oponentes.",
+      "tamano": "1.1 GB",
+      "url": "https://drive.google.com/file/d/1GF0npluVEQsp7ghy7FR5WVenSAiAQh_q/view?usp=drive_link"
+    },
+    {
+      "id": "crash-bandicoot-the-wrath-of-cortex-ps2",
+      "nombre": "Crash Bandicoot: The Wrath of Cortex",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "Las aventuras de Crash continúan en PS2, enfrentándose a nuevos villanos y desafíos de plataformas 3D.",
+      "tamano": "1.2 GB",
+      "url": "https://drive.google.com/file/d/1sgZ3PdOa9IHWvIUDdEIDiF8u2j2p-IcQ/view?usp=drive_link"
+    },
+    {
+      "id": "dragon-ball-z-budokai-3-ps2",
+      "nombre": "Dragon Ball Z: Budokai 3",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "Uno de los mejores juegos de lucha de Dragon Ball Z, con un sistema de combate profundo, celdas de habilidad y gran roster.",
+      "tamano": "1.3 GB",
+      "url": "https://drive.google.com/file/d/1BPdjMq-l1K-8eXQiS5R4exHmvHYpuBQx/view?usp=drive_link"
+    },
+    {
+      "id": "need-for-speed-most-wanted-black-edition-ps2",
+      "nombre": "Need for Speed: Most Wanted - Black Edition",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "Carreras clandestinas, persecuciones policiales y una lista negra de 15 rivales a los que debes derrotar.",
+      "tamano": "1.4 GB",
+      "url": "https://drive.google.com/file/d/1FHjzMaGInslNUCQbS3wB6ra-il7azt5b/view?usp=drive_link"
+    },
+    {
+      "id": "ultraman-fighting-evolution-3-ps2",
+      "nombre": "Ultraman Fighting Evolution 3",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "Juego de lucha 3D con los héroes y monstruos clásicos de Ultraman, destacando por su increíble modo historia.",
+      "tamano": "1.2 GB",
+      "url": "https://drive.google.com/file/d/1ZTzuGBz4ynjfVssgQ7B40kQXbvmKVyLp/view?usp=drive_link"
+    },
+    {
+      "id": "devil-may-cry-3-dantes-awakening-ps2",
+      "nombre": "Devil May Cry 3: Dante's Awakening",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "La precuela que redefine el género hack and slash con un sistema de combate profundo, desafiante y muy estilizado.",
+      "tamano": "1.4 GB",
+      "url": "https://drive.google.com/file/d/1LRy9njao-6qGjnRpF5ritaU2blAa5DO6/view?usp=drive_link"
+    },
+    {
+      "id": "grand-theft-auto-vice-city-ps2",
+      "nombre": "Grand Theft Auto: Vice City",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "Aventura de mundo abierto ambientada en los años 80, con una banda sonora icónica y misiones memorables.",
+      "tamano": "1.5 GB",
+      "url": "https://drive.google.com/file/d/1YGkIBe5Kv8GKx7h8p0IHSPqf_qQiqyBg/view?usp=drive_link"
+    },
+    {
+      "id": "super-bomba-patch-2026-ps2",
+      "nombre": "Super Bomba Patch 2026",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "La versión más actualizada y completa del clásico mod de fútbol para PS2, con equipos, ligas y transferencias reales.",
+      "tamano": "1.5 GB",
+      "url": "https://drive.google.com/file/d/1cY1XOOek9Gq9vYxNGCacizpEnOlbJ8wO/view?usp=drive_link"
+    },
+    {
+      "id": "dragon-ball-z-budokai-tenkaichi-4-ps2",
+      "nombre": "Dragon Ball Z: Budokai Tenkaichi 4",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "El esperado juego de lucha 3D de Dragon Ball Z con batallas aéreas, transformaciones y un roster gigante.",
+      "tamano": "1.4 GB",
+      "url": "https://drive.google.com/file/d/1YXH0gD-zpy27iYIX0xA1CdkFCOJ3Y6Gu/view?usp=drive_link"
+    },
+    {
+      "id": "midnight-club-3-dub-edition-remix-ps2",
+      "nombre": "Midnight Club 3: DUB Edition Remix",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "Carreras callejeras de mundo abierto con personalización extrema de vehículos y bandas sonoras de hip-hop y rock.",
+      "tamano": "1.3 GB",
+      "url": "https://drive.google.com/file/d/1-BdOa8-t2Wx9JV1Qwd-CG2KNH1x2jt-8/view?usp=drive_link"
+    },
+    {
+      "id": "gta-san-andreas-definitive-edition-ps2",
+      "nombre": "GTA San Andreas Definitive Edition",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "La versión mejorada del clásico de mundo abierto, con gráficos actualizados y misiones en tres ciudades distintas.",
+      "tamano": "1.5 GB",
+      "url": "https://drive.google.com/file/d/1fpMNIxNj1k1aDuJ3BxCu7UzCUGenifEX/view?usp=drive_link"
+    },
+    {
+      "id": "canis-canem-edit-ps2",
+      "nombre": "Canis Canem Edit",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "Aventura de mundo abierto en un internado, donde debes sobrevivir a las clases, matones y travesuras escolares.",
+      "tamano": "1.3 GB",
+      "url": "https://drive.google.com/file/d/1tv8K1QAa4o9vCTPHpmiiysl9f7CuOHTA/view?usp=drive_link"
+    },
+    {
+      "id": "efootball-2026-ps2",
+      "nombre": "eFootball 2026",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "La evolución del simulador de fútbol con jugabilidad realista, plantillas actualizadas y modos de carrera.",
+      "tamano": "1.4 GB",
+      "url": "https://drive.google.com/file/d/1BAi3IGnhyURiJrH0N1wvKI1xDqZUfq_E/view?usp=drive_link"
+    },
+    {
+      "id": "def-jam-fight-for-ny-ps2",
+      "nombre": "Def Jam: Fight for NY",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "Juego de lucha callejera con artistas reales de hip-hop, combates en escenarios interactivos y creación de luchador.",
+      "tamano": "1.3 GB",
+      "url": "https://drive.google.com/file/d/1daz6xXJxP8_5BB3-hxE08Rdpn-IdczM-/view?usp=drive_link"
+    },
+    {
+      "id": "shadow-of-the-colossus-ps2",
+      "nombre": "Shadow of the Colossus",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "Obra maestra de acción y aventura donde debes derrotar a 16 colosos gigantes en un mundo desolado y hermoso.",
+      "tamano": "1.4 GB",
+      "url": "https://drive.google.com/file/d/1Iix4c2Zu4uFCHDBNi7474pplHb2hj7Gt/view?usp=drive_link"
+    },
+    {
+      "id": "pes-2014-pro-evolution-soccer-ps2",
+      "nombre": "PES 2014: Pro Evolution Soccer",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "Simulador de fútbol con el motor Fox Engine, ofreciendo jugabilidad realista y licencias de equipos mundiales.",
+      "tamano": "1.4 GB",
+      "url": "https://drive.google.com/file/d/1E_tMBv4Z5jZ74qMp98YUEj1CXAe9WRso/view?usp=drive_link"
+    },
+    {
+      "id": "gran-turismo-4-ps2",
+      "nombre": "Gran Turismo 4",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "El simulador de conducción definitivo de PS2 con más de 700 autos y circuitos detallados de todo el mundo.",
+      "tamano": "1.5 GB",
+      "url": "https://drive.google.com/file/d/1pou5b9goxCcC9WwiFN40phNiPpY9O2r8/view?usp=drive_link"
+    },
+    {
+      "id": "sengoku-basara-2-heroes-ps2",
+      "nombre": "Sengoku Basara 2: Heroes",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "Juego de acción hack and slash ambientado en el Japón feudal, con personajes históricos estilizados y combos frenéticos.",
+      "tamano": "1.3 GB",
+      "url": "https://drive.google.com/file/d/1vQRNajVKDPM1Lu7zg8eEozKxq6FajMTk/view?usp=drive_link"
+    },
+    {
+      "id": "naruto-shippuden-ultimate-ninja-5-ps2",
+      "nombre": "Naruto Shippuden: Ultimate Ninja 5",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "Juego de lucha y aventura basado en el anime, con un modo historia épico y un amplio roster de ninjas.",
+      "tamano": "1.3 GB",
+      "url": "https://drive.google.com/file/d/1T3jkqlz1OwTTCz4xDbuT-bzZKW5fKFWx/view?usp=drive_link"
+    },
+    {
+      "id": "mortal-kombat-shaolin-monks-ps2",
+      "nombre": "Mortal Kombat: Shaolin Monks",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "Aventura de acción cooperativa que reimagina los eventos de MK2 desde la perspectiva de Liu Kang y Kung Lao.",
+      "tamano": "1.2 GB",
+      "url": "https://drive.google.com/file/d/1DNFsBCFGuhWfMfChjwe6e0uMLXsTfghY/view?usp=drive_link"
+    },
+    {
+      "id": "tekken-4-ps2",
+      "nombre": "Tekken 4",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "El regreso de la saga de lucha 3D a PS2, introduciendo escenarios interactivos y un sistema de combate más técnico.",
+      "tamano": "1.2 GB",
+      "url": "https://drive.google.com/file/d/1sKH30NvJwH3etLl6Hefl_7lei469RhIk/view?usp=drive_link"
+    },
+    {
+      "id": "need-for-speed-most-wanted-ps2",
+      "nombre": "Need for Speed: Most Wanted",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "Carreras clandestinas y persecuciones policiales intensas en una ciudad de mundo abierto llena de rivales.",
+      "tamano": "1.3 GB",
+      "url": "https://drive.google.com/file/d/1ls7xo26Hp1DlgbHTa91MG6mNiPgvaIPq/view?usp=drive_link"
+    },
+    {
+      "id": "god-hand-ps2",
+      "nombre": "God Hand",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "Beat 'em up de acción desafiante y con mucho humor, creado por Clover Studio, con un sistema de combate personalizable.",
+      "tamano": "1.2 GB",
+      "url": "https://drive.google.com/file/d/113LeJDUhF03n-VhbTCDzAd6iwUIEHcln/view?usp=drive_link"
+    },
+    {
+      "id": "downhill-domination-ps2",
+      "nombre": "Downhill Domination",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "Juego de carreras de mountain bike extremo con saltos, trucos y combate entre ciclistas en montañas peligrosas.",
+      "tamano": "1.1 GB",
+      "url": "https://drive.google.com/file/d/1wD3Y3__XppkY2Ywu3rMpWu_2ah-qnxSZ/view?usp=drive_link"
+    },
+    {
+      "id": "black-ps2",
+      "nombre": "Black",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "Shooter en primera persona explosivo y cinematográfico, conocido por su impresionante diseño de sonido y destrucción de escenarios.",
+      "tamano": "1.4 GB",
+      "url": "https://drive.google.com/file/d/1Pzz8ofJQ7sx_NSDHTBI7uEK2G2tRu0Ir/view?usp=drive_link"
+    },
+    {
+      "id": "dragon-ball-z-budokai-tenkaichi-3-ps2",
+      "nombre": "Dragon Ball Z: Budokai Tenkaichi 3",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "El juego de lucha 3D definitivo de Dragon Ball Z con el roster más grande, batallas aéreas y transformaciones icónicas.",
+      "tamano": "1.4 GB",
+      "url": "https://drive.google.com/file/d/1EOuAbYSpz3tQyERR5t1ttG7d0e53pO3Q/view?usp=drive_link"
+    },
+    {
+      "id": "wwe-smackdown-here-comes-the-pain-ps2",
+      "nombre": "WWE SmackDown! Here Comes the Pain",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "Considerado uno de los mejores juegos de lucha libre de la historia, con un modo historia profundo y jugabilidad sólida.",
+      "tamano": "1.3 GB",
+      "url": "https://drive.google.com/file/d/1me6w9hV10wXSwFvxSJpntBt490_gI7AJ/view?usp=drive_link"
+    },
+    {
+      "id": "need-for-speed-underground-2-ps2",
+      "nombre": "Need for Speed: Underground 2",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "Carreras nocturnas de mundo abierto con personalización extrema de vehículos y una banda sonora legendaria.",
+      "tamano": "1.3 GB",
+      "url": "https://drive.google.com/file/d/174FeGGzfriazrKpUDHpUaxife0RCx7-t/view?usp=drive_link"
+    },
+    {
+      "id": "grand-theft-auto-san-andreas-ps2",
+      "nombre": "Grand Theft Auto: San Andreas",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "El clásico juego de mundo abierto que definió una generación, con tres ciudades, misiones épicas y personalización del personaje.",
+      "tamano": "1.5 GB",
+      "url": "https://drive.google.com/file/d/1laUG7IyHWWkmPzL1iW2g0xGLg-Lo7DCy/view?usp=drive_link"
+    },
+    {
+      "id": "resident-evil-4-ps2",
+      "nombre": "Resident Evil 4",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "El revolucionario juego de terror y acción en tercera persona que redefinió el género con Leon S. Kennedy.",
+      "tamano": "1.4 GB",
+      "url": "https://drive.google.com/file/d/1Ko4SUrx7b_WmJhB9yN6oBbCFHHp5pz83/view?usp=drive_link"
+    },
+    {
+      "id": "god-of-war-ps2",
+      "nombre": "God of War",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "La épica aventura de acción de Kratos, llena de combates brutales, puzzles y mitología griega.",
+      "tamano": "1.4 GB",
+      "url": "https://drive.google.com/file/d/1-ADbqg9W--jw2U0mMREKgVwkoqx1aRsL/view?usp=drive_link"
+    },
+    {
+      "id": "god-of-war-2-ps2",
+      "nombre": "God of War II",
+      "consola": "ps2",
+      "region": "Europa",
+      "descripcion": "La secuela directa que expande la escala y la acción, llevando a Kratos a desafiar a los dioses del Olimpo.",
+      "tamano": "1.5 GB",
+      "url": "https://drive.google.com/file/d/1VeQ5sBnxbKOky6etju6LUimzidX2fqVj/view?usp=drive_link"
+    },
+    {
+      "id": "god-of-war-iii-ps3",
+      "nombre": "God of War III",
+      "consola": "ps3",
+      "region": "Europa",
+      "descripcion": "La épica conclusión de la trilogía original de Kratos, con combates a gran escala, puzzles y gráficos impresionantes.",
+      "tamano": "10 GB",
+      "url": "https://drive.google.com/file/d/1yxJ2c2Y4x6aerIzGNV1sPZldkmSYALe4/view?usp=drive_link"
+    },
+    {
+      "id": "god-of-war-ascension-ps3",
+      "nombre": "God of War: Ascension",
+      "consola": "ps3",
+      "region": "Europa",
+      "descripcion": "La precuela de la saga que explora el pasado de Kratos y su ruptura con Ares, introduciendo un modo multijugador innovador.",
+      "tamano": "12 GB",
+      "url": "https://drive.google.com/file/d/1gEd2WeH7dUTFDzKAHGfNhNu2Z0ihxd44/view?usp=drive_link"
+    },
+    {
+      "id": "god-of-war-collection-ps3",
+      "nombre": "God of War Collection",
+      "consola": "ps3",
+      "region": "Europa",
+      "descripcion": "Remasterización en alta definición de God of War y God of War II, con rendimiento a 60 FPS y soporte para trofeos.",
+      "tamano": "14 GB",
+      "url": "https://drive.google.com/file/d/1kVI4nPohkjNuNlt0RavMLqcLhhcQOQuJ/view?usp=drive_link"
+    },
+    {
+      "id": "call-of-duty-advanced-warfare-ps3",
+      "nombre": "Call of Duty: Advanced Warfare",
+      "consola": "ps3",
+      "region": "Europa",
+      "descripcion": "Shooter en primera persona futurista con movimiento exoesquelético, campañas cinematográficas y multijugador dinámico.",
+      "tamano": "15 GB",
+      "url": "https://drive.google.com/file/d/1gTSIxn8rJl_7D-btxrUWFKg-IvTUIfn7/view?usp=drive_link"
+    },
+    {
+      "id": "grand-theft-auto-san-andreas-ps3",
+      "nombre": "Grand Theft Auto: San Andreas",
+      "consola": "ps3",
+      "region": "Europa",
+      "descripcion": "La versión remasterizada para PS3 del clásico de mundo abierto, con mejores gráficos, iluminación y soporte para trofeos.",
+      "tamano": "8 GB",
+      "url": "https://drive.google.com/file/d/1p6d2OBs7yMtjjYjSIG70zgGQ1Co3h48i/view?usp=drive_link"
+    },
+    {
+      "id": "grand-theft-auto-v-ps3",
+      "nombre": "Grand Theft Auto V",
+      "consola": "ps3",
+      "region": "Europa",
+      "descripcion": "El aclamado juego de mundo abierto con tres protagonistas, misiones elaboradas, robos y un vasto mapa lleno de detalles.",
+      "tamano": "18 GB",
+      "url": "https://drive.google.com/file/d/1e941udy6rFYc8Resf_nwYy9-KPrwTmF1/view?usp=drive_link"
+    },
+    {
+      "id": "minecraft-playstation-3-edition-ps3",
+      "nombre": "Minecraft: PlayStation 3 Edition",
+      "consola": "ps3",
+      "region": "Europa",
+      "descripcion": "El fenómeno mundial de construcción y supervivencia, adaptado perfectamente con controles y contenido exclusivo para la consola.",
+      "tamano": "2 GB",
+      "url": "https://drive.google.com/file/d/1KHPpcLYfSzcdLMLSAyaZlR5kvHvgGvXh/view?usp=drive_link"
+    },
+    {
+      "id": "bios-ps2",
+      "nombre": "BIOS de PS2",
+      "consola": "ps2",
+      "descripcion": "Archivo de BIOS del sistema necesario para emular la PlayStation 2. Imprescindible para que los juegos funcionen correctamente en el emulador.",
+      "tamano": "4 MB",
+      "url": "https://drive.google.com/file/d/1Lbq8Sh681IUADOPM2KSrOfU_ZYNGcdMb/view?usp=drive_link"
+    },
+    {
+      "id": "bios-ps3",
+      "nombre": "BIOS de PS3",
+      "consola": "ps3",
+      "descripcion": "Archivo de BIOS del sistema necesario para emular la PlayStation 3 (por ejemplo, en RPCS3). Imprescindible para que los juegos funcionen correctamente.",
+      "tamano": "15 MB",
+      "url": "https://drive.google.com/file/d/1Aa_PCjnA2GbXmn4jk0U--0xFCmbE-acK/view?usp=drive_link"
+    }
+  ]
   }
-]
-}
 
