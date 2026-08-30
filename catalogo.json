@@ -559,6 +559,62 @@
     "descripcion": "Archivo de BIOS del sistema necesario para emular la PlayStation 2. Imprescindible para que los juegos funcionen correctamente en el emulador.",
     "tamano": "4 MB",
     "url": "https://drive.google.com/file/d/1Lbq8Sh681IUADOPM2KSrOfU_ZYNGcdMb/view?usp=drive_link"
+  },
+  {
+    "id": "god-of-war-iii-ps3",
+    "nombre": "God of War III",
+    "consola": "ps3",
+    "descripcion": "La épica conclusión de la trilogía original de Kratos, con combates a gran escala, puzzles y gráficos impresionantes.",
+    "tamano": "10 GB",
+    "url": "https://drive.google.com/file/d/1yxJ2c2Y4x6aerIzGNV1sPZldkmSYALe4/view?usp=drive_link"
+  },
+  {
+    "id": "god-of-war-ascension-ps3",
+    "nombre": "God of War: Ascension",
+    "consola": "ps3",
+    "descripcion": "La precuela de la saga que explora el pasado de Kratos y su ruptura con Ares, introduciendo un modo multijugador innovador.",
+    "tamano": "12 GB",
+    "url": "https://drive.google.com/file/d/1gEd2WeH7dUTFDzKAHGfNhNu2Z0ihxd44/view?usp=drive_link"
+  },
+  {
+    "id": "god-of-war-collection-ps3",
+    "nombre": "God of War Collection",
+    "consola": "ps3",
+    "descripcion": "Remasterización en alta definición de God of War y God of War II, con rendimiento a 60 FPS y soporte para trofeos.",
+    "tamano": "14 GB",
+    "url": "https://drive.google.com/file/d/1kVI4nPohkjNuNlt0RavMLqcLhhcQOQuJ/view?usp=drive_link"
+  },
+  {
+    "id": "call-of-duty-advanced-warfare-ps3",
+    "nombre": "Call of Duty: Advanced Warfare",
+    "consola": "ps3",
+    "descripcion": "Shooter en primera persona futurista con movimiento exoesquelético, campañas cinematográficas y multijugador dinámico.",
+    "tamano": "15 GB",
+    "url": "https://drive.google.com/file/d/1gTSIxn8rJl_7D-btxrUWFKg-IvTUIfn7/view?usp=drive_link"
+  },
+  {
+    "id": "grand-theft-auto-san-andreas-ps3",
+    "nombre": "Grand Theft Auto: San Andreas",
+    "consola": "ps3",
+    "descripcion": "La versión remasterizada para PS3 del clásico de mundo abierto, con mejores gráficos, iluminación y soporte para trofeos.",
+    "tamano": "8 GB",
+    "url": "https://drive.google.com/file/d/1p6d2OBs7yMtjjYjSIG70zgGQ1Co3h48i/view?usp=drive_link"
+  },
+  {
+    "id": "grand-theft-auto-v-ps3",
+    "nombre": "Grand Theft Auto V",
+    "consola": "ps3",
+    "descripcion": "El aclamado juego de mundo abierto con tres protagonistas, misiones elaboradas, robos y un vasto mapa lleno de detalles.",
+    "tamano": "18 GB",
+    "url": "https://drive.google.com/file/d/1e941udy6rFYc8Resf_nwYy9-KPrwTmF1/view?usp=drive_link"
+  },
+  {
+    "id": "minecraft-playstation-3-edition-ps3",
+    "nombre": "Minecraft: PlayStation 3 Edition",
+    "consola": "ps3",
+    "descripcion": "El fenómeno mundial de construcción y supervivencia, adaptado perfectamente con controles y contenido exclusivo para la consola.",
+    "tamano": "2 GB",
+    "url": "https://drive.google.com/file/d/1KHPpcLYfSzcdLMLSAyaZlR5kvHvgGvXh/view?usp=drive_link"
   }
 ]
 }
