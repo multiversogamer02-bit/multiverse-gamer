@@ -615,6 +615,14 @@
     "descripcion": "El fenómeno mundial de construcción y supervivencia, adaptado perfectamente con controles y contenido exclusivo para la consola.",
     "tamano": "2 GB",
     "url": "https://drive.google.com/file/d/1KHPpcLYfSzcdLMLSAyaZlR5kvHvgGvXh/view?usp=drive_link"
+  },
+  {
+    "id": "bios-ps3",
+    "nombre": "BIOS de PS3",
+    "consola": "ps3",
+    "descripcion": "Archivo de BIOS del sistema necesario para emular la PlayStation 3 (por ejemplo, en RPCS3). Imprescindible para que los juegos funcionen correctamente.",
+    "tamano": "15 MB",
+    "url": "https://drive.google.com/file/d/1Aa_PCjnA2GbXmn4jk0U--0xFCmbE-acK/view?usp=drive_link"
   }
 ]
 }
