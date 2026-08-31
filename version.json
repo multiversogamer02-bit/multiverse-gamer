@@ -1,5 +1,5 @@
 {
-  "version": "1.20.3",
+  "version": "1.20.4",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Novedades de esta versión:\n• La Tienda ahora muestra la región de cada juego (🇺🇸 USA / 🇪🇺 Europa / 🇯🇵 Japón), para distinguir versiones."
+  "notas": "Arreglos de esta versión:\n• Ajustes ya no se recorta ni se pisan las tarjetas al agrandar la ventana.\n• El botón para agregar amigos en Comunidad ahora se ve claro (antes salía como “···”).\n• Al actualizar un emulador, ahora te muestra la versión que quedó instalada."
 }
