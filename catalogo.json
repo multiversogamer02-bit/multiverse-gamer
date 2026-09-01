@@ -1004,6 +1004,51 @@
     "descripcion": "Fútbol callejero con trucos, freestyle y partidos 4 contra 4 en escenarios urbanos vibrantes de todo el mundo.",
     "tamano": "6 GB",
     "url": "https://drive.google.com/file/d/14CH2Ywh_9awakU2-28ROpFzCoBzHwymH/view?usp=drive_link"
+  },
+  {
+    "id": "resident-evil-6-europa-ps3",
+    "nombre": "Resident Evil 6",
+    "consola": "ps3",
+    "region": "Europa",
+    "descripcion": "Acción y terror de supervivencia con múltiples campañas entrelazadas, un enfoque cooperativo intenso y set pieces cinematográficos.",
+    "tamano": "15 GB",
+    "url": "https://drive.google.com/file/d/1UykJl6pCATQdqCxEPHgxDrOMgHrv5y6p/view?usp=drive_link"
+  },
+  {
+    "id": "tekken-tag-tournament-2-usa-ps3",
+    "nombre": "Tekken Tag Tournament 2",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "El juego de lucha 3D definitivo con el roster más grande de la saga, modos de equipo dinámicos y una personalización profunda.",
+    "tamano": "9 GB",
+    "url": "https://drive.google.com/file/d/1X382Dl08PpXsIH1yLid-GsyZHd5sxGLb/view?usp=drive_link"
+  },
+  {
+    "id": "ufc-undisputed-3-usa-ps3",
+    "nombre": "UFC Undisputed 3",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "El simulador de artes marciales mixtas (MMA) más realista, destacando por incluir la legendaria organización PRIDE y un sistema de lucha en el suelo excepcional.",
+    "tamano": "6 GB",
+    "url": "https://drive.google.com/file/d/1HSOeToSzZ7Ka5Uv4LGnP0KIMd_2yjZOJ/view?usp=drive_link"
+  },
+  {
+    "id": "assassins-creed-iv-black-flag-usa-ps3",
+    "nombre": "Assassin's Creed IV: Black Flag",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "Aventura de mundo abierto en el Caribe durante la Edad de Oro de la Piratería, combinando sigilo, exploración naval y combates épicos.",
+    "tamano": "15 GB",
+    "url": "https://drive.google.com/file/d/1DdurMg2_rVsazweWtF5hZiC5H_l5zsu5/view?usp=drive_link"
+  },
+  {
+    "id": "efootball-pes-2021-usa-ps3",
+    "nombre": "eFootball PES 2021",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "La edición de temporada del aclamado simulador de fútbol, con plantillas actualizadas de la temporada 2020-2021 y el modo Master League refinado.",
+    "tamano": "12 GB",
+    "url": "https://drive.google.com/file/d/1obhVDlS9o_Gk8fWbJ7fqeLpySulwinPZ/view?usp=drive_link"
   }
   ]
   }
