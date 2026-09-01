@@ -698,6 +698,114 @@
     "descripcion": "Obra maestra narrativa y de supervivencia. Acompaña a Joel y Ellie en un viaje emotivo y peligroso a través de un Estados Unidos post-apocalíptico.",
     "tamano": "24 GB",
     "url": "https://drive.google.com/file/d/12Y-ui5iw6NBqILOJABNT1n8JG1SbhHiX/view?usp=drive_link"
+  },
+    {
+    "id": "call-of-duty-black-ops-ii-latin-america-ps3",
+    "nombre": "Call of Duty: Black Ops II",
+    "consola": "ps3",
+    "region": "Latin America",
+    "descripcion": "Shooter en primera persona con campañas intensas, modo zombies y multijugador frenético ambientado en un futuro cercano.",
+    "tamano": "15 GB",
+    "url": "https://drive.google.com/file/d/1KkOJL9Vh184DG9UPr7kNCvqdN_fd-ecl/view?usp=drive_link"
+  },
+  {
+    "id": "tekken-6-usa-ps3",
+    "nombre": "Tekken 6",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "El rey del combate 3D regresa con un roster gigante, escenarios destructibles y un profundo sistema de combos.",
+    "tamano": "8 GB",
+    "url": "https://drive.google.com/file/d/17J1V_upYNSsfAjYx45C33v-uSr3Ji7ph/view?usp=drive_link"
+  },
+  {
+    "id": "mortal-kombat-komplete-edition-usa-ps3",
+    "nombre": "Mortal Kombat: Komplete Edition",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "El renacimiento de la saga de lucha con fatalities brutales, modo historia cinematográfico y todo el contenido descargable incluido.",
+    "tamano": "10 GB",
+    "url": "https://drive.google.com/file/d/1VzDr17cfiAEw1nrFCmvYlwmYlENqB8MB/view?usp=drive_link"
+  },
+  {
+    "id": "pes-2013-pro-evolution-soccer-usa-ps3",
+    "nombre": "PES 2013: Pro Evolution Soccer",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "Simulador de fútbol con el aclamado sistema Player ID, que captura el estilo único de las estrellas del fútbol mundial.",
+    "tamano": "8 GB",
+    "url": "https://drive.google.com/file/d/1VpaHPwwirYKlnLVLfjR89ILnYiYmjDm1/view?usp=drive_link"
+  },
+  {
+    "id": "pes-2018-pro-evolution-soccer-usa-ps3",
+    "nombre": "PES 2018: Pro Evolution Soccer",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "La evolución del fútbol virtual con gráficos mejorados, tácticas en tiempo real y el modo Master League más completo.",
+    "tamano": "12 GB",
+    "url": "https://drive.google.com/file/d/1EYrzVLUqVzytmsmhBE0oREObjP-zpwQq/view?usp=drive_link"
+  },
+  {
+    "id": "grand-theft-auto-iv-episodes-from-liberty-city-usa-ps3",
+    "nombre": "Grand Theft Auto IV: Episodes from Liberty City",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "Las dos expansiones independientes de GTA IV: The Lost and Damned y The Ballad of Gay Tony, en un solo paquete.",
+    "tamano": "12 GB",
+    "url": "https://drive.google.com/file/d/1PmuWdjf-ClwWBPPh6z8ysxFad0mXdIz2/view?usp=drive_link"
+  },
+  {
+    "id": "grand-theft-auto-iv-usa-ps3",
+    "nombre": "Grand Theft Auto IV",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "La historia de Niko Bellic en Liberty City, con una narrativa madura, físicas realistas y un mundo abierto inmersivo.",
+    "tamano": "15 GB",
+    "url": "https://drive.google.com/file/d/1_V6XzR2CIzrWBxZYzgusDBZYlZoc9efh/view?usp=drive_link"
+  },
+  {
+    "id": "red-dead-redemption-game-of-the-year-edition-usa-ps3",
+    "nombre": "Red Dead Redemption: Game of the Year Edition",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "La épica aventura del viejo oeste de John Marston, incluyendo el juego base y todo el contenido adicional premiado.",
+    "tamano": "10 GB",
+    "url": "https://drive.google.com/file/d/1vZu5fdidB-NpsWfO-n4AoWRuoPUq30yY/view?usp=drive_link"
+  },
+  {
+    "id": "red-dead-redemption-undead-nightmare-usa-ps3",
+    "nombre": "Red Dead Redemption: Undead Nightmare",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "La expansión independiente que convierte el viejo oeste en un apocalipsis zombie lleno de criaturas mitológicas y acción desenfrenada.",
+    "tamano": "4 GB",
+    "url": "https://drive.google.com/file/d/1MMp34PPv5pvLCNjEAnetmz8L6i9G8Krn/view?usp=drive_link"
+  },
+  {
+    "id": "god-of-war-collection-usa-asia-ps3",
+    "nombre": "God of War Collection",
+    "consola": "ps3",
+    "region": "USA Asia",
+    "descripcion": "Remasterización en alta definición de God of War y God of War II, con rendimiento a 60 FPS y soporte para trofeos.",
+    "tamano": "14 GB",
+    "url": "https://drive.google.com/file/d/1UNu3q-Y-mQJwF3JNzu-kmENgrHT5U_9E/view?usp=drive_link"
+  },
+  {
+    "id": "call-of-duty-black-ops-iii-usa-ps3",
+    "nombre": "Call of Duty: Black Ops III",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "Shooter futurista con campaña cooperativa, multijugador mejorado y el adictivo modo Zombies con mapas masivos.",
+    "tamano": "15 GB",
+    "url": "https://drive.google.com/file/d/1z_5k0PyJjVaTnjCIdSamqhE2LqFfwIlK/view?usp=drive_link"
+  },
+  {
+    "id": "naruto-shippuden-ultimate-ninja-storm-3-full-burst-usa-ps3",
+    "nombre": "Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "Juego de lucha y aventura con gráficos de anime espectaculares, incluyendo la Cuarta Gran Guerra Ninja y todo el DLC.",
+    "tamano": "10 GB",
+    "url": "https://drive.google.com/file/d/10Ho2PSKuI_U4cqCx3CBt7KWhSZx0UekJ/view?usp=drive_link"
   }
   ]
   }
