@@ -977,6 +977,33 @@
     "descripcion": "Aventura de mundo abierto y superpoderes donde tus decisiones morales definen si serás un héroe o un villano.",
     "tamano": "7 GB",
     "url": "https://drive.google.com/file/d/1EqcofnzBbixqe1GlmYmmr95bDGoBh9dn/view?usp=drive_link"
+  },
+  {
+    "id": "wwe-2k17-usa-ps3",
+    "nombre": "WWE 2K17",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "El simulador de lucha libre profesional más realista de su año, con el modo Carrera 'MyCareer' y un roster estelar.",
+    "tamano": "12 GB",
+    "url": "https://drive.google.com/file/d/1_wH7W3Y5TCsGZloftlurfql-RE1w-sxa/view?usp=drive_link"
+  },
+  {
+    "id": "far-cry-3-usa-ps3",
+    "nombre": "Far Cry 3",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "Aventura de mundo abierto en una isla tropical llena de peligros, con un villano icónico y libertad creativa total.",
+    "tamano": "9 GB",
+    "url": "https://drive.google.com/file/d/1sJAAKYASqqciPD6O7HG8f2VEI5e7cYog/view?usp=drive_link"
+  },
+  {
+    "id": "fifa-street-usa-ps3",
+    "nombre": "FIFA Street",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "Fútbol callejero con trucos, freestyle y partidos 4 contra 4 en escenarios urbanos vibrantes de todo el mundo.",
+    "tamano": "6 GB",
+    "url": "https://drive.google.com/file/d/14CH2Ywh_9awakU2-28ROpFzCoBzHwymH/view?usp=drive_link"
   }
   ]
   }
