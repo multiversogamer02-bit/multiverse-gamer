@@ -887,6 +887,24 @@
     "descripcion": "El aclamado reinicio de la saga de Lara Croft, con supervivencia, exploración de tumbas y combates intensos en una isla misteriosa.",
     "tamano": "12 GB",
     "url": "https://drive.google.com/file/d/1tiUlzNhSEF0QypYVQZmqo2zaTA5RYniw/view?usp=drive_link"
+  },
+  {
+    "id": "call-of-duty-black-ops-europa-ps3",
+    "nombre": "Call of Duty: Black Ops",
+    "consola": "ps3",
+    "region": "Europa",
+    "descripcion": "Shooter en primera persona ambientado en la Guerra Fría, con una campaña de espionaje intensa y el icónico modo Zombies.",
+    "tamano": "8 GB",
+    "url": "https://drive.google.com/file/d/1SVdYXlt45NFt9L4CrKqX5iDuVgRcttjv/view?usp=drive_link"
+  },
+  {
+    "id": "call-of-duty-black-ops-usa-ps3",
+    "nombre": "Call of Duty: Black Ops",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "Versión americana (NTSC) del aclamado shooter de la Guerra Fría, con campaña cinematográfica y el legendario modo Zombies.",
+    "tamano": "8 GB",
+    "url": "https://drive.google.com/file/d/1w3CbQQIH5zAwPlTtiLXVShxiJnUGNWt3/view?usp=drive_link"
   }
   ]
   }
