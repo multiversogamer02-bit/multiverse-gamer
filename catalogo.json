@@ -1049,6 +1049,96 @@
     "descripcion": "La edición de temporada del aclamado simulador de fútbol, con plantillas actualizadas de la temporada 2020-2021 y el modo Master League refinado.",
     "tamano": "12 GB",
     "url": "https://drive.google.com/file/d/1obhVDlS9o_Gk8fWbJ7fqeLpySulwinPZ/view?usp=drive_link"
+  },
+  {
+    "id": "legend-of-zelda-skyward-sword-usa-wii",
+    "nombre": "The Legend of Zelda: Skyward Sword",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "Aventura épica que explora los orígenes de la Master Sword, con controles de movimiento precisos y un mundo flotante.",
+    "tamano": "2.5 GB",
+    "url": "https://drive.google.com/file/d/1EVyIDGN2Qp_HTyYzrUgQVgvwYwPRSAye/view?usp=drive_link"
+  },
+  {
+    "id": "dragon-ball-z-budokai-tenkaichi-3-usa-wii",
+    "nombre": "Dragon Ball Z: Budokai Tenkaichi 3",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "El juego de lucha 3D definitivo de Dragon Ball Z con el roster más grande, batallas aéreas y transformaciones icónicas.",
+    "tamano": "2.8 GB",
+    "url": "https://drive.google.com/file/d/1EEsO74fbfb1ImGNJp_c5g3wdAYLNuEG1/view?usp=drive_link"
+  },
+  {
+    "id": "wii-sports-wii-sports-resort-usa-wii",
+    "nombre": "Wii Sports + Wii Sports Resort",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "El paquete definitivo de deportes, incluyendo tenis, bolos, esgrima, surf y más con el accesorio Wii MotionPlus.",
+    "tamano": "3.5 GB",
+    "url": "https://drive.google.com/file/d/1rw9dt_JwcWv02Cc4jNLEgQy3bJSBWYj3/view?usp=drive_link"
+  },
+  {
+    "id": "call-of-duty-black-ops-usa-wii",
+    "nombre": "Call of Duty: Black Ops",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "Shooter en primera persona ambientado en la Guerra Fría, adaptado para Wii con controles de puntero y modo cooperativo.",
+    "tamano": "2.2 GB",
+    "url": "https://drive.google.com/file/d/1UBdSJJMnfytIkrO22qb5JPnU-Xq8Hr_J/view?usp=drive_link"
+  },
+  {
+    "id": "super-mario-galaxy-2-usa-wii",
+    "nombre": "Super Mario Galaxy 2",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "La obra maestra de plataformas 3D de Nintendo, con nuevos power-ups, niveles desafiantes y una banda sonora orquestal.",
+    "tamano": "2.5 GB",
+    "url": "https://drive.google.com/file/d/1jmQ5dkD5O6YCb01yqrupAGA99-OZHGUk/view?usp=drive_link"
+  },
+  {
+    "id": "resident-evil-4-wii-edition-usa-wii",
+    "nombre": "Resident Evil 4: Wii Edition",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "La versión mejorada del clásico de terror y acción, optimizada para los controles de puntero del Wiimote para un apuntado preciso.",
+    "tamano": "2.8 GB",
+    "url": "https://drive.google.com/file/d/1tMs50q_9zcCAYlzXKz-Y3jwcfBBoVYg3/view?usp=drive_link"
+  },
+  {
+    "id": "super-smash-bros-brawl-usa-wii",
+    "nombre": "Super Smash Bros. Brawl",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "El épico crossover de lucha de Nintendo con un modo historia extenso (El Emisario Subespacial) y un roster gigante.",
+    "tamano": "3.5 GB",
+    "url": "https://drive.google.com/file/d/1NOuDF6eZ0EisKet4ObvtiM5nBVPg4_i8/view?usp=drive_link"
+  },
+  {
+    "id": "super-mario-galaxy-usa-wii",
+    "nombre": "Super Mario Galaxy",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "El revolucionario juego de plataformas que llevó a Mario al espacio, con gravedad dinámica y diseño de niveles brillante.",
+    "tamano": "2.5 GB",
+    "url": "https://drive.google.com/file/d/1I7PACfJpx7OGBR6WqpoFbHFBn9zvKexx/view?usp=drive_link"
+  },
+  {
+    "id": "mario-kart-wii-usa-wii",
+    "nombre": "Mario Kart Wii",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "Carreras caóticas y divertidas con hasta 12 jugadores, soporte para el volante Wii Wheel y nuevos trucos en el aire.",
+    "tamano": "2.2 GB",
+    "url": "https://drive.google.com/file/d/1BWiEuNIbHmJhjZLdx8m0UXXx5tmQ3k5q/view?usp=drive_link"
+  },
+  {
+    "id": "new-super-mario-bros-wii-usa-wii",
+    "nombre": "New Super Mario Bros. Wii",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "El regreso del plataformas 2D clásico de Mario, diseñado para el cooperativo de hasta 4 jugadores en la misma pantalla.",
+    "tamano": "1.8 GB",
+    "url": "https://drive.google.com/file/d/1mYraj6jaZIfXDDdQgNwpX11Tr1_arjoB/view?usp=drive_link"
   }
   ]
   }
