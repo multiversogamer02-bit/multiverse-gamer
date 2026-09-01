@@ -806,6 +806,87 @@
     "descripcion": "Juego de lucha y aventura con gráficos de anime espectaculares, incluyendo la Cuarta Gran Guerra Ninja y todo el DLC.",
     "tamano": "10 GB",
     "url": "https://drive.google.com/file/d/10Ho2PSKuI_U4cqCx3CBt7KWhSZx0UekJ/view?usp=drive_link"
+  },
+    {
+    "id": "skate-3-usa-ps3",
+    "nombre": "Skate 3",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "El mejor simulador de skateboarding de mundo abierto, con trucos realistas, física mejorada y creación de parques.",
+    "tamano": "8 GB",
+    "url": "https://drive.google.com/file/d/1eNMMLeyVf2yNHeuEz2zVeF_komlN1uVD/view?usp=drive_link"
+  },
+  {
+    "id": "dantes-inferno-usa-ps3",
+    "nombre": "Dante's Inferno",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "Acción y aventura brutal basada en la Divina Comedia, con combates espectaculares y escenarios infernales visualmente impactantes.",
+    "tamano": "7 GB",
+    "url": "https://drive.google.com/file/d/1Z19UYd_nKkY4VNgl46lv2plkta0o0u7C/view?usp=drive_link"
+  },
+  {
+    "id": "demons-souls-usa-ps3",
+    "nombre": "Demon's Souls",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "El desafiante RPG de acción que dio origen al género Souls, con una atmósfera oscura, opresiva y un sistema de combate estratégico.",
+    "tamano": "9 GB",
+    "url": "https://drive.google.com/file/d/1bkV3pTkMuE_WnMb9bPKvetUwa5riXSQL/view?usp=drive_link"
+  },
+  {
+    "id": "need-for-speed-most-wanted-usa-ps3",
+    "nombre": "Need for Speed: Most Wanted",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "La versión de PS3 del clásico de carreras clandestinas, con persecuciones policiales intensas y un mundo abierto vibrante.",
+    "tamano": "8 GB",
+    "url": "https://drive.google.com/file/d/1w4Jy7uOppP9IcLC-2_6lMVfjb3L8hsR8/view?usp=drive_link"
+  },
+  {
+    "id": "call-of-duty-4-modern-warfare-usa-ps3",
+    "nombre": "Call of Duty 4: Modern Warfare",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "El shooter que redefinió el género bélico moderno con una campaña cinematográfica inolvidable y un multijugador legendario.",
+    "tamano": "8 GB",
+    "url": "https://drive.google.com/file/d/16gYNezhDOyItl_bnzk8j5A5B3RuNlECX/view?usp=drive_link"
+  },
+  {
+    "id": "gran-turismo-6-latin-america-ps3",
+    "nombre": "Gran Turismo 6",
+    "consola": "ps3",
+    "region": "Latin America",
+    "descripcion": "El simulador de conducción definitivo de PS3 con más de 1200 autos, circuitos detallados y físicas de manejo realistas.",
+    "tamano": "12 GB",
+    "url": "https://drive.google.com/file/d/1at7ZfozgLBfK4kYzgCktindkpSXGPl-y/view?usp=drive_link"
+  },
+  {
+    "id": "asuras-wrath-usa-ps3",
+    "nombre": "Asura's Wrath",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "Una experiencia de acción épica e interactiva inspirada en el anime, con batallas descomunales contra dioses y mecánicas de QTE.",
+    "tamano": "8 GB",
+    "url": "https://drive.google.com/file/d/1urMcYNC-1tamZbZ4i5_OToQ2hFdGQPoZ/view?usp=drive_link"
+  },
+  {
+    "id": "naruto-shippuden-ultimate-ninja-storm-revolution-usa-ps3",
+    "nombre": "Naruto Shippuden: Ultimate Ninja Storm Revolution",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "Juego de lucha con gráficos de anime espectaculares, modos de equipo 2vs2 y una historia alternativa exclusiva creada por el autor original.",
+    "tamano": "10 GB",
+    "url": "https://drive.google.com/file/d/173i31WFnK9HBEKmvzQ4nHvrF1scbEoZu/view?usp=drive_link"
+  },
+  {
+    "id": "tomb-raider-usa-ps3",
+    "nombre": "Tomb Raider",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "El aclamado reinicio de la saga de Lara Croft, con supervivencia, exploración de tumbas y combates intensos en una isla misteriosa.",
+    "tamano": "12 GB",
+    "url": "https://drive.google.com/file/d/1tiUlzNhSEF0QypYVQZmqo2zaTA5RYniw/view?usp=drive_link"
   }
   ]
   }
