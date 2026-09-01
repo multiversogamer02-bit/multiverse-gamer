@@ -905,6 +905,78 @@
     "descripcion": "Versión americana (NTSC) del aclamado shooter de la Guerra Fría, con campaña cinematográfica y el legendario modo Zombies.",
     "tamano": "8 GB",
     "url": "https://drive.google.com/file/d/1w3CbQQIH5zAwPlTtiLXVShxiJnUGNWt3/view?usp=drive_link"
+  },
+  {
+    "id": "call-of-duty-modern-warfare-2-usa-ps3",
+    "nombre": "Call of Duty: Modern Warfare 2",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "El aclamado shooter que llevó la campaña cinematográfica y el multijugador a un nivel legendario en la generación.",
+    "tamano": "8 GB",
+    "url": "https://drive.google.com/file/d/1ZsKboul7l3fPUVdu9Kko2azFhpOl1ojC/view?usp=drive_link"
+  },
+  {
+    "id": "uncharted-drakes-fortune-usa-ps3",
+    "nombre": "Uncharted: Drake's Fortune",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "La aventura que inició la saga de Nathan Drake, llena de acción, plataformas y tesoros perdidos en una isla misteriosa.",
+    "tamano": "10 GB",
+    "url": "https://drive.google.com/file/d/1B1lAdujRYCxc1_wf77XsO0Yps7e6hoxZ/view?usp=drive_link"
+  },
+  {
+    "id": "fight-night-champion-usa-ps3",
+    "nombre": "Fight Night Champion",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "El simulador de boxeo más realista y oscuro de la saga, con un modo historia tipo película y físicas de impacto increíbles.",
+    "tamano": "6 GB",
+    "url": "https://drive.google.com/file/d/1GEus1subU8_xz_OlipzZI-HtbQa6-ieg/view?usp=drive_link"
+  },
+  {
+    "id": "blur-usa-ps3",
+    "nombre": "Blur",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "Carreras arcade frenéticas que combinan vehículos reales con poderes y armas, al estilo Mario Kart pero en el mundo real.",
+    "tamano": "5 GB",
+    "url": "https://drive.google.com/file/d/1KUaeqnNpQ3vNDJFHZa3b5RG1zqc1IKaQ/view?usp=drive_link"
+  },
+  {
+    "id": "fifa-19-legacy-edition-latin-america-ps3",
+    "nombre": "FIFA 19: Legacy Edition",
+    "consola": "ps3",
+    "region": "Latin America",
+    "descripcion": "La edición adaptada para PS3 con las plantillas y ligas actualizadas de la temporada 2018-2019, incluyendo la Champions League.",
+    "tamano": "12 GB",
+    "url": "https://drive.google.com/file/d/1SqGqUduw4H9FW7WRxo6bflj98TKFT8m-/view?usp=drive_link"
+  },
+  {
+    "id": "the-amazing-spider-man-2-usa-ps3",
+    "nombre": "The Amazing Spider-Man 2",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "Aventura de mundo abierto donde te balanceas por Nueva York, luchando contra villanos clásicos como Electro y el Duende Verde.",
+    "tamano": "8 GB",
+    "url": "https://drive.google.com/file/d/1XAjh0mCDwlvn21bTqZpYjoGnfnJUqBsr/view?usp=drive_link"
+  },
+  {
+    "id": "uncharted-2-among-thieves-usa-ps3",
+    "nombre": "Uncharted 2: Among Thieves",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "Una de las mejores aventuras de la historia de PS3, con una narrativa épica, set pieces inolvidables y un multijugador sólido.",
+    "tamano": "12 GB",
+    "url": "https://drive.google.com/file/d/1mzu5CbhOK91hMC-kfQmu7kAdJ9OFH0Up/view?usp=drive_link"
+  },
+  {
+    "id": "infamous-usa-ps3",
+    "nombre": "inFamous",
+    "consola": "ps3",
+    "region": "USA",
+    "descripcion": "Aventura de mundo abierto y superpoderes donde tus decisiones morales definen si serás un héroe o un villano.",
+    "tamano": "7 GB",
+    "url": "https://drive.google.com/file/d/1EqcofnzBbixqe1GlmYmmr95bDGoBh9dn/view?usp=drive_link"
   }
   ]
   }
