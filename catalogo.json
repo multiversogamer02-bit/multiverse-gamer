@@ -1139,6 +1139,96 @@
     "descripcion": "El regreso del plataformas 2D clásico de Mario, diseñado para el cooperativo de hasta 4 jugadores en la misma pantalla.",
     "tamano": "1.8 GB",
     "url": "https://drive.google.com/file/d/1mYraj6jaZIfXDDdQgNwpX11Tr1_arjoB/view?usp=drive_link"
+  },
+  {
+    "id": "spider-man-shattered-dimensions-usa-wii",
+    "nombre": "Spider-Man: Shattered Dimensions",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "Aventura de acción que une cuatro universos de Spider-Man, cada uno con un estilo de jugabilidad y gráficos únicos.",
+    "tamano": "2.5 GB",
+    "url": "https://drive.google.com/file/d/1EeZnfvlpdGsuvw-_9uS37BLFHQnV4ENc/view?usp=drive_link"
+  },
+  {
+    "id": "mario-strikers-charged-usa-wii",
+    "nombre": "Mario Strikers Charged",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "Fútbol arcade caótico y lleno de poderes con los personajes de Mario, optimizado para el accesorio Wii MotionPlus.",
+    "tamano": "2.0 GB",
+    "url": "https://drive.google.com/file/d/10bqDJYQN57SBBSfd3CukeetFoej8wzFL/view?usp=drive_link"
+  },
+  {
+    "id": "donkey-kong-country-returns-usa-wii",
+    "nombre": "Donkey Kong Country Returns",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "El regreso triunfal del clásico de plataformas 2D con niveles desafiantes, gráficos hermosos y modo cooperativo.",
+    "tamano": "2.8 GB",
+    "url": "https://drive.google.com/file/d/1zdgEo06dg6J5rTUF7lzX8_pEVXGtClFy/view?usp=drive_link"
+  },
+  {
+    "id": "wwe-13-usa-wii",
+    "nombre": "WWE 13",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "Juego de lucha libre con el aclamado modo 'Attitude Era' y controles de movimiento mejorados para una experiencia inmersiva.",
+    "tamano": "2.5 GB",
+    "url": "https://drive.google.com/file/d/1d5shlyD5nUWyaU4ZP4MIsxiUWSwUzOa1/view?usp=drive_link"
+  },
+  {
+    "id": "newer-super-mario-bros-usa-wii",
+    "nombre": "Newer Super Mario Bros. Wii",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "Romhack legendario y muy pulido que expande la dificultad, creatividad y niveles del New Super Mario Bros. Wii original.",
+    "tamano": "2.0 GB",
+    "url": "https://drive.google.com/file/d/1R1KagnO_Z7yzKSzyDlX-z07_Oi5xBWvq/view?usp=drive_link"
+  },
+  {
+    "id": "call-of-duty-modern-warfare-usa-wii",
+    "nombre": "Call of Duty: Modern Warfare",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "Adaptación del aclamado shooter para Wii, con controles de puntero precisos, campañas intensas y modo cooperativo exclusivo.",
+    "tamano": "2.2 GB",
+    "url": "https://drive.google.com/file/d/1onBLIDSUF6jKgBbm-gcksobjD7y2X4qO/view?usp=drive_link"
+  },
+  {
+    "id": "call-of-duty-modern-warfare-3-usa-wii",
+    "nombre": "Call of Duty: Modern Warfare 3",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "La conclusión de la trilogía Modern Warfare, con campañas cinematográficas y multijugador adaptado a la consola de Nintendo.",
+    "tamano": "2.3 GB",
+    "url": "https://drive.google.com/file/d/1ESY1Y0JNbjHymOJGvYj0xmaohBN5Fetx/view?usp=drive_link"
+  },
+  {
+    "id": "super-paper-mario-usa-wii",
+    "nombre": "Super Paper Mario",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "Aventura de plataformas que innova permitiendo cambiar entre perspectivas 2D y 3D para resolver puzzles y explorar.",
+    "tamano": "2.5 GB",
+    "url": "https://drive.google.com/file/d/13KPrUGfb4x787-bnb85EkbM5YPFwR7au/view?usp=drive_link"
+  },
+  {
+    "id": "legend-of-zelda-twilight-princess-usa-wii",
+    "nombre": "The Legend of Zelda: Twilight Princess",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "Una de las aventuras más oscuras y épicas de Link, optimizada para los controles de movimiento del Wiimote.",
+    "tamano": "3.0 GB",
+    "url": "https://drive.google.com/file/d/1ekERYpCCzN3zBgq05YzMRe3DREe-7KE8/view?usp=drive_link"
+  },
+  {
+    "id": "mario-party-9-usa-wii",
+    "nombre": "Mario Party 9",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "El juego de mesa festivo de Nintendo, donde los jugadores comparten un mismo vehículo en el tablero para una experiencia más dinámica.",
+    "tamano": "2.2 GB",
+    "url": "https://drive.google.com/file/d/1hv4fpEbdUG23BTjT_nMtcZdkPVwLYZla/view?usp=drive_link"
   }
   ]
   }
