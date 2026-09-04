@@ -1229,6 +1229,87 @@
     "descripcion": "El juego de mesa festivo de Nintendo, donde los jugadores comparten un mismo vehículo en el tablero para una experiencia más dinámica.",
     "tamano": "2.2 GB",
     "url": "https://drive.google.com/file/d/1hv4fpEbdUG23BTjT_nMtcZdkPVwLYZla/view?usp=drive_link"
+  },
+    {
+    "id": "xenoblade-chronicles-usa-wii",
+    "nombre": "Xenoblade Chronicles",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "Épico RPG de mundo abierto con un sistema de combate dinámico, una historia profunda y escenarios colosales e inolvidables.",
+    "tamano": "4.5 GB",
+    "url": "https://drive.google.com/file/d/1p-CZcggrzYMoiNWcr-K65ioSqx4xNrdX/view?usp=drive_link"
+  },
+  {
+    "id": "sonic-unleashed-usa-wii",
+    "nombre": "Sonic Unleashed",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "Aventura de plataformas que combina la velocidad clásica de Sonic con intensos combates cuerpo a cuerpo como Werehog.",
+    "tamano": "3.5 GB",
+    "url": "https://drive.google.com/file/d/1YpDbDLHASELqgOXmrJsQ5B7KbtqwrQ7_/view?usp=drive_link"
+  },
+  {
+    "id": "pokemon-battle-revolution-usa-wii",
+    "nombre": "Pokémon Battle Revolution",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "El primer juego de Pokémon para Wii, enfocado en batallas 3D espectaculares y conexión con los juegos de Nintendo DS.",
+    "tamano": "2.5 GB",
+    "url": "https://drive.google.com/file/d/1DIBWo0s6gtRtDZQyRfLX3xBCbzI6Xl1m/view?usp=drive_link"
+  },
+  {
+    "id": "wii-party-usa-wii",
+    "nombre": "Wii Party",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "Colección de minijuegos festivos y modos de tablero diseñados para disfrutar al máximo con amigos y familia usando el Wiimote.",
+    "tamano": "2.0 GB",
+    "url": "https://drive.google.com/file/d/1RHCR0FgvEcfVf1IGBRFGeqslqu2CvfY9/view?usp=drive_link"
+  },
+  {
+    "id": "mario-party-8-usa-wii",
+    "nombre": "Mario Party 8",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "El clásico juego de mesa de Nintendo llega a Wii con minijuegos que aprovechan al máximo los controles de movimiento.",
+    "tamano": "2.2 GB",
+    "url": "https://drive.google.com/file/d/10csCo3iM52OIjyt0UbcmY1EYyDaSFrtl/view?usp=drive_link"
+  },
+  {
+    "id": "inazuma-eleven-go-strikers-2013-japon-wii",
+    "nombre": "Inazuma Eleven Go: Strikers 2013",
+    "consola": "wii",
+    "region": "Japon",
+    "descripcion": "Fútbol arcade con superpoderes y técnicas especiales espectaculares, basado en la popular serie de anime y manga.",
+    "tamano": "2.5 GB",
+    "url": "https://drive.google.com/file/d/1pcP7zqIFdXvM6XKm_zaIdsTbGDsgF05W/view?usp=drive_link"
+  },
+  {
+    "id": "kirbys-return-to-dream-land-usa-wii",
+    "nombre": "Kirby's Return to Dream Land",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "Aventura de plataformas cooperativa para hasta 4 jugadores, llena de poderes de copia creativos y jefes desafiantes.",
+    "tamano": "2.5 GB",
+    "url": "https://drive.google.com/file/d/1iuncppZ4gWxuVSflpzp-t5yai5Ih53tt/view?usp=drive_link"
+  },
+  {
+    "id": "punch-out-usa-wii",
+    "nombre": "Punch-Out!!",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "El regreso del clásico de boxeo de Nintendo, con gráficos vibrantes, personajes carismáticos y un sistema de contraataques perfecto.",
+    "tamano": "2.0 GB",
+    "url": "https://drive.google.com/file/d/1ff-UnDjRxcrV-Kvw5F9yRcd71Vs7SLrE/view?usp=drive_link"
+  },
+  {
+    "id": "ben-10-omniverse-usa-wii",
+    "nombre": "Ben 10: Omniverse",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "Juego de acción y plataformas basado en la serie, donde puedes transformarte en los alienígenas favoritos de Ben para combatir el crimen.",
+    "tamano": "2.0 GB",
+    "url": "https://drive.google.com/file/d/12h2Hadnz_Gm4c4RC2QoBc4PEFeQUd3_J/view?usp=drive_link"
   }
   ]
   }
