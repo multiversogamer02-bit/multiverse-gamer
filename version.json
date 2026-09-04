@@ -1,5 +1,5 @@
 {
-  "version": "1.20.11",
+  "version": "1.20.12",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Mejora de esta versión — Modo sin conexión más rápido:\n• Si tu internet está lento, la app ya no se queda colgada en «Verificando…»: corta sola y entra en modo sin conexión usando la última verificación."
+  "notas": "Mejora de seguridad de esta versión:\n• El acceso sin conexión ahora está atado a tu cuenta (más seguro contra usos indebidos).\n• Protecciones anti-abuso en el sistema de pagos (del lado del servidor)."
 }
