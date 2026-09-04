@@ -1,5 +1,5 @@
 {
-  "version": "1.20.7",
+  "version": "1.20.8",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Novedad de esta versión — ¡Jugar online!\n• Nuevo Asistente de Online (en Emuladores → «🌐 Jugar online»): consola por consola, qué red comunitaria hay para volver a jugar online (RPCN para PS3, Netplay/Wiimmfi para Wii, Insignia, Pretendo y más), con pasos y links.\n• Activación AUTOMÁTICA para PS3 (RPCN) y PSP (Ad Hoc): un botón deja la config del emulador lista sola; solo te queda crear tu cuenta / entrar a la partida."
+  "notas": "Novedad de esta versión — ¡Activar el online con un clic!\n• En el Asistente de Online (Emuladores → «🌐 Jugar online») ahora aparece el botón «⚡ Activar … automáticamente» para PS3 (RPCN) y PSP (Ad Hoc): deja la configuración del emulador lista sola; solo te queda crear tu cuenta o entrar a la partida."
 }
