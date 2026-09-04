@@ -1,5 +1,5 @@
 {
-  "version": "1.20.4",
+  "version": "1.20.5",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Arreglos de esta versión:\n• Ajustes ya no se recorta ni se pisan las tarjetas al agrandar la ventana.\n• El botón para agregar amigos en Comunidad ahora se ve claro (antes salía como “···”).\n• Al actualizar un emulador, ahora te muestra la versión que quedó instalada."
+  "notas": "Arreglos de esta versión:\n• La app ahora abre maximizada de arranque.\n• El botón para agregar amigos en Comunidad se ve completo.\n• La Tienda solo marca “Instalado” si el juego está de verdad (adiós al juego fantasma por una descarga cortada).\n• Si un link falla, se limpian solas las descargas cortadas y las carpetas vacías.\n• Dos versiones del mismo juego (por ej. USA y Europa) ahora se ven las dos en la Biblioteca."
 }
