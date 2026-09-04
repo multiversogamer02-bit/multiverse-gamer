@@ -1,5 +1,5 @@
 {
-  "version": "1.20.10",
+  "version": "1.20.11",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Novedades de esta versión — Ayuda y seguridad de tus datos:\n• Nueva sección «Ayuda y soporte» en Ajustes: preguntas frecuentes + formulario para escribirnos (sugerencias o problemas) directo desde la app.\n• Reporte de errores: si la app tiene un problema, se guarda y te preguntamos si querés enviarlo para arreglarlo más rápido.\n• Copias de seguridad automáticas de tu configuración (biblioteca, ajustes, colecciones…): una por día, con opción de crear o restaurar cuando quieras."
+  "notas": "Mejora de esta versión — Modo sin conexión más rápido:\n• Si tu internet está lento, la app ya no se queda colgada en «Verificando…»: corta sola y entra en modo sin conexión usando la última verificación."
 }
