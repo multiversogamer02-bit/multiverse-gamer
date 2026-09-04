@@ -1,5 +1,5 @@
 {
-  "version": "1.20.12",
+  "version": "1.20.13",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Mejora de seguridad de esta versión:\n• El acceso sin conexión ahora está atado a tu cuenta (más seguro contra usos indebidos).\n• Protecciones anti-abuso en el sistema de pagos (del lado del servidor)."
+  "notas": "Novedades de esta versión:\n• ¡La pantalla de Streaming ahora está 100% traducida! Inglés, portugués, francés e italiano, incluidas las guías de solución de problemas y de co-op.\n• Nueva sección «Créditos y licencias» en Ajustes: reconoce a los emuladores y herramientas de terceros que la app usa, con link a cada proyecto oficial."
 }
