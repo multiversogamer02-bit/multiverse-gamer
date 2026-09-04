@@ -1,5 +1,5 @@
 {
-  "version": "1.20.14",
+  "version": "1.20.15",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Novedades de esta versión:\n• La pantalla de Streaming ahora está 100% traducida (inglés, portugués, francés, italiano).\n• Nueva sección «Créditos y licencias» en Ajustes (reconoce a los emuladores y herramientas de terceros).\n• shadPS4 (PS4) ahora se abre con su interfaz gráfica en vez del cartel de línea de comandos."
+  "notas": "Novedades de esta versión:\n• La pantalla «Configurar mandos, gráficos e idioma» ahora es más clara: un botón para abrir cada emulador y una guía honesta de dónde tocar adentro.\n• Se dejó solo el botón que de verdad hace algo puntual (el menú de idioma de PS2 en PCSX2)."
 }
