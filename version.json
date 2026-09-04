@@ -1,5 +1,5 @@
 {
-  "version": "1.20.8",
+  "version": "1.20.9",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Novedad de esta versión — ¡Activar el online con un clic!\n• En el Asistente de Online (Emuladores → «🌐 Jugar online») ahora aparece el botón «⚡ Activar … automáticamente» para PS3 (RPCN) y PSP (Ad Hoc): deja la configuración del emulador lista sola; solo te queda crear tu cuenta o entrar a la partida."
+  "notas": "Novedad de esta versión — ¡Co-op entre casas más fácil!\n• En Streaming → «Jugar juntos» hay un nuevo asistente «🌍 Jugar entre casas»: te ayuda a conectar a un amigo de otra casa con Tailscale (gratis), detecta e instala Tailscale, y te muestra tu dirección para pasarle. Funciona aunque tu internet no deje abrir puertos."
 }
