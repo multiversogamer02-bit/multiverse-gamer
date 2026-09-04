@@ -1,5 +1,5 @@
 {
   "version": "1.20.13",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Novedades de esta versión:\n• ¡La pantalla de Streaming ahora está 100% traducida! Inglés, portugués, francés e italiano, incluidas las guías de solución de problemas y de co-op.\n• Nueva sección «Créditos y licencias» en Ajustes: reconoce a los emuladores y herramientas de terceros que la app usa, con link a cada proyecto oficial."
+  "notas": "Novedades de esta versión:\n• La pantalla de Streaming ahora está 100% traducida (inglés, portugués, francés, italiano).\n• Nueva sección «Créditos y licencias» en Ajustes (reconoce a los emuladores y herramientas de terceros).\n• shadPS4 (PS4) ahora se abre con su interfaz gráfica en vez del cartel de línea de comandos."
 }
