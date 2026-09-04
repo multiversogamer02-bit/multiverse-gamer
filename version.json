@@ -1,5 +1,5 @@
 {
-  "version": "1.20.6",
+  "version": "1.20.7",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Arreglos y novedades de esta versión:\n• El botón para agregar amigos en Comunidad ahora se ve completo (ya no se corta).\n• ¡La Biblioteca ahora está traducida! Inglés, portugués, francés e italiano, junto al resto de la app."
+  "notas": "Novedad de esta versión:\n• ¡Nuevo Asistente de Online! En la pestaña Emuladores, el botón «🌐 Jugar online» te muestra consola por consola cómo volver a jugar online con redes comunitarias (RPCN para PS3, Netplay/Wiimmfi para Wii, y más), con pasos y links."
 }
