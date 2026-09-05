@@ -1,5 +1,5 @@
 {
-  "version": "1.20.16",
+  "version": "1.20.18",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Novedades de esta versión:\n• Nueva sección «Reseñas de la comunidad» (pestaña Comunidad): dejá tu reseña con estrellas y comentario, y mirá las de otros jugadores.\n• Tu reseña se puede editar cuando quieras."
+  "notas": "Novedades de esta versión:\n• Biblioteca sincronizada entre dispositivos: tus favoritos, colecciones y última jugada te siguen a otra PC al iniciar sesión (se unen con lo que ya tenías, nunca borra nada).\n• Nuevo asistente «Grabar y clipear» (en Ajustes): teclas rápidas y ayuda para grabar tus partidas con la grabadora de Windows."
 }
