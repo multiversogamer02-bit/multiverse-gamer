@@ -1,5 +1,5 @@
 {
-  "version": "1.20.15",
+  "version": "1.20.16",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Novedades de esta versión:\n• La pantalla «Configurar mandos, gráficos e idioma» ahora es más clara: un botón para abrir cada emulador y una guía honesta de dónde tocar adentro.\n• Se dejó solo el botón que de verdad hace algo puntual (el menú de idioma de PS2 en PCSX2)."
+  "notas": "Novedades de esta versión:\n• Nueva sección «Reseñas de la comunidad» (pestaña Comunidad): dejá tu reseña con estrellas y comentario, y mirá las de otros jugadores.\n• Tu reseña se puede editar cuando quieras."
 }
