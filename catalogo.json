@@ -1310,6 +1310,14 @@
     "descripcion": "Juego de acción y plataformas basado en la serie, donde puedes transformarte en los alienígenas favoritos de Ben para combatir el crimen.",
     "tamano": "2.0 GB",
     "url": "https://drive.google.com/file/d/12h2Hadnz_Gm4c4RC2QoBc4PEFeQUd3_J/view?usp=drive_link"
+  },
+  {
+    "id": "sonic-mania-ps4",
+    "nombre": "Sonic Mania",
+    "consola": "ps4",
+    "descripcion": "El regreso triunfal del Sonic clásico en 2D, con niveles remasterizados, mecánicas de velocidad perfectas y un encanto nostálgico.",
+    "tamano": "3 GB",
+    "url": "https://drive.google.com/file/d/1g7CyN4XD3q3qdPiZBjBaCcPLK4hTNbe0/view?usp=drive_link"
   }
   ]
   }
