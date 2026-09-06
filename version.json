@@ -1,5 +1,5 @@
 {
-  "version": "1.20.18",
+  "version": "1.20.19",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Novedades de esta versión:\n• Biblioteca sincronizada entre dispositivos: tus favoritos, colecciones y última jugada te siguen a otra PC al iniciar sesión (se unen con lo que ya tenías, nunca borra nada).\n• Nuevo asistente «Grabar y clipear» (en Ajustes): teclas rápidas y ayuda para grabar tus partidas con la grabadora de Windows."
+  "notas": "Novedades de esta versión:\n• Juegos de PS4 (.pkg): ahora el juego base y sus actualizaciones se muestran como UN solo juego, con el nombre limpio (antes salían duplicados y con el código interno)."
 }
