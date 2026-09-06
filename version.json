@@ -1,5 +1,5 @@
 {
-  "version": "1.20.19",
+  "version": "1.20.20",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Novedades de esta versión:\n• Juegos de PS4 (.pkg): ahora el juego base y sus actualizaciones se muestran como UN solo juego, con el nombre limpio (antes salían duplicados y con el código interno)."
+  "notas": "Novedades de esta versión:\n• Juegos de PS4: al tocar «Jugar», si el juego ya está instalado en shadPS4 se abre directo; si todavía no lo instalaste, la app abre shadPS4 y te explica cómo instalar el .pkg (antes shadPS4 se abría y se cerraba sin avisar)."
 }
