@@ -1,5 +1,5 @@
 {
-  "version": "1.20.34",
+  "version": "1.20.35",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
   "notas": "Novedades de esta versión:\n• Emuladores automáticos: si tocás «Jugar» y falta el emulador de esa consola, la app lo baja e instala sola y abre el juego. Ya cubre 9 consolas (incluidas PSP y Xbox 360). Para las que usan instalador propio, te ofrece abrir la descarga."
 }
