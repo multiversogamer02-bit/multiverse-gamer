@@ -1,5 +1,5 @@
 {
-  "version": "1.20.21",
+  "version": "1.20.22",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Novedades de esta versión:\n• Mejor detección de emuladores: cuando hay una versión mejor (por ejemplo shadPS4 con interfaz gráfica, o snes9x de 64 bits), la app ahora la elige aunque esté en otra carpeta. Esto hace que shadPS4 abra su interfaz linda en vez del cartel de línea de comandos."
+  "notas": "Novedades de esta versión:\n• Al instalar shadPS4 desde la app, ahora se baja la versión CON interfaz gráfica (QtLauncher), que además trae el instalador de juegos PS4 (.pkg). Antes bajaba la versión de línea de comandos."
 }
