@@ -1,5 +1,5 @@
 {
-  "version": "1.20.23",
+  "version": "1.20.24",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Novedades de esta versión:\n• Juegos de PS4 de UN CLIC: al tocar «Jugar», la app baja sola la herramienta necesaria, extrae el juego (base + actualizaciones + DLC) y lo abre en shadPS4, con una ventana que muestra el progreso. Ya no hay que instalar el .pkg a mano."
+  "notas": "Novedades de esta versión:\n• shadPS4: la app vuelve a usar el build correcto (línea de comandos) que sí lanza los juegos de PS4 y abre la configuración. Reinstalá shadPS4 desde la pestaña Emuladores para que baje el build correcto."
 }
