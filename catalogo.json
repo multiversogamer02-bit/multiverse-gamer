@@ -1318,6 +1318,104 @@
     "descripcion": "El regreso triunfal del Sonic clásico en 2D, con niveles remasterizados, mecánicas de velocidad perfectas y un encanto nostálgico.",
     "tamano": "3 GB",
     "url": "https://drive.google.com/file/d/1g7CyN4XD3q3qdPiZBjBaCcPLK4hTNbe0/view?usp=drive_link"
+  }, 
+  {
+    "id": "bloodborne-goty-ps4",
+    "nombre": "Bloodborne: Game of the Year Edition",
+    "consola": "ps4",
+    "descripcion": "La edición definitiva del aclamado RPG de acción y terror de FromSoftware, incluyendo la expansión The Old Hunters y todo el contenido extra.",
+    "tamano": "18 GB",
+    "url": "https://drive.google.com/file/d/12I_AIBIfrpEUPVe1DLekeG8d26BFVnN7/view?usp=drive_link"
+  },
+  {
+    "id": "rayman-origins-usa-wii",
+    "nombre": "Rayman Origins",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "Plataformas 2D cooperativo con un estilo artístico dibujado a mano, lleno de humor, música pegadiza y niveles muy creativos.",
+    "tamano": "2.5 GB",
+    "url": "https://drive.google.com/file/d/13iuskZ7wp7x5g1F-aLHbaB6GH3uFGo6k/view?usp=drive_link"
+  },
+  {
+    "id": "resident-evil-the-darkside-chronicles-usa-wii",
+    "nombre": "Resident Evil: The Darkside Chronicles",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "Shooter sobre rieles que revisita los eventos de Resident Evil 2 y Code: Veronica, optimizado para los controles de puntero del Wiimote.",
+    "tamano": "3.0 GB",
+    "url": "https://drive.google.com/file/d/1XV-6EZnRULn_6UsJFD1axc8F_nxenYav/view?usp=drive_link"
+  },
+  {
+    "id": "sengoku-basara-3-utage-japon-wii",
+    "nombre": "Sengoku Basara 3: Utage",
+    "consola": "wii",
+    "region": "Japon",
+    "descripcion": "Expansión independiente del aclamado hack and slash, con nuevos personajes, modos de juego y escenarios épicos del Japón feudal.",
+    "tamano": "3.5 GB",
+    "url": "https://drive.google.com/file/d/1LF5gbGTbTGxV5jYAIVc1BLXkxBuWLMOQ/view?usp=drive_link"
+  },
+  {
+    "id": "mortal-kombat-armageddon-usa-wii",
+    "nombre": "Mortal Kombat: Armageddon",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "El enfrentamiento final de la saga con un roster gigantesco, fatalities clásicos y el profundo modo de creación de personajes.",
+    "tamano": "2.8 GB",
+    "url": "https://drive.google.com/file/d/12XRcFe-NXgRtxlw8Bck-Jqpn8CdAgWAw/view?usp=drive_link"
+  },
+  {
+    "id": "mario-sports-mix-usa-wii",
+    "nombre": "Mario Sports Mix",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "Compilación de deportes arcade con personajes de Mario y Final Fantasy, incluyendo voleibol, hockey, baloncesto y dodgeball.",
+    "tamano": "2.5 GB",
+    "url": "https://drive.google.com/file/d/161iZv-lolg0pXQSBGu1wHI0S2A6dfPpn/view?usp=drive_link"
+  },
+  {
+    "id": "tatsunoko-vs-capcom-ultimate-all-stars-usa-wii",
+    "nombre": "Tatsunoko vs. Capcom: Ultimate All-Stars",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "Frenético juego de lucha 2D que cruza a los héroes de Capcom con los iconos del anime clásico de Tatsunoko Production.",
+    "tamano": "2.5 GB",
+    "url": "https://drive.google.com/file/d/1VSoXCXoLJJf3yiGEjQ77a-SAe5Sq3fWh/view?usp=drive_link"
+  },
+  {
+    "id": "sonic-colours-usa-wii",
+    "nombre": "Sonic Colours",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "Aventura de plataformas 3D vibrante y rápida, introduciendo los poderosos Wisp con habilidades únicas para cada nivel.",
+    "tamano": "2.5 GB",
+    "url": "https://drive.google.com/file/d/1soQWD1QUmOxw5kTO9xzWb4WjcRmbRMXl/view?usp=drive_link"
+  },
+  {
+    "id": "spider-man-web-of-shadows-usa-wii",
+    "nombre": "Spider-Man: Web of Shadows",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "Aventura de mundo abierto con un sistema de combate fluido y la capacidad de cambiar entre el traje rojo clásico y el simbionte negro.",
+    "tamano": "2.5 GB",
+    "url": "https://drive.google.com/file/d/1XZ6xujl9QDJx7_uURanEolrVuoeCuRDO/view?usp=drive_link"
+  },
+  {
+    "id": "lego-batman-2-dc-super-heroes-usa-wii",
+    "nombre": "LEGO Batman 2: DC Super Heroes",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "Aventura cooperativa en mundo abierto con Batman, Robin y la Liga de la Justicia para detener la alianza del Joker y Lex Luthor.",
+    "tamano": "2.5 GB",
+    "url": "https://drive.google.com/file/d/1eD8VVQwiK5fwrhtf_w8Arze1jV07HSvE/view?usp=drive_link"
+  },
+  {
+    "id": "rhythm-heaven-fever-usa-wii",
+    "nombre": "Rhythm Heaven Fever",
+    "consola": "wii",
+    "region": "USA",
+    "descripcion": "Juego de ritmo adictivo y peculiar que pone a prueba tu sentido del tiempo con minijuegos musicales únicos y muy creativos.",
+    "tamano": "2.0 GB",
+    "url": "https://drive.google.com/file/d/1Fiv5ieRsnkscfEG1h0pzJDyjq3tPGtsS/view?usp=drive_link"
   }
   ]
   }
