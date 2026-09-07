@@ -1,5 +1,5 @@
 {
-  "version": "1.20.22",
+  "version": "1.20.23",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Novedades de esta versión:\n• Al instalar shadPS4 desde la app, ahora se baja la versión CON interfaz gráfica (QtLauncher), que además trae el instalador de juegos PS4 (.pkg). Antes bajaba la versión de línea de comandos."
+  "notas": "Novedades de esta versión:\n• Juegos de PS4 de UN CLIC: al tocar «Jugar», la app baja sola la herramienta necesaria, extrae el juego (base + actualizaciones + DLC) y lo abre en shadPS4, con una ventana que muestra el progreso. Ya no hay que instalar el .pkg a mano."
 }
