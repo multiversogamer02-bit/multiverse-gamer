@@ -1982,6 +1982,24 @@
     "descripcion": "Simulador de hockey sobre hielo de EA Sports con físicas de jugador mejoradas, modo Be a Pro renovado y una experiencia de juego más realista.",
     "tamano": "6.4 GB",
     "url": "https://drive.google.com/file/d/120tMuFrup0Md0CmixBIeftwnwf5qzCr1/view?usp=drive_link"
+  },
+  {
+    "id": "assassins-creed-xbox360",
+    "nombre": "Assassin's Creed",
+    "consola": "xbox360",
+    "region": "USA / Europa",
+    "descripcion": "El inicio de la legendaria saga de sigilo y acción de Ubisoft, donde exploras la Tierra Santa durante la Tercera Cruzada como el asesino Altaïr.",
+    "tamano": "4.9 GB",
+    "url": "https://drive.google.com/file/d/1DDbBZX8NvTsDjlRXoa5hEfMNwUmPGyRo/view?usp=drive_link"
+  },
+  {
+    "id": "snoopys-grand-adventure-xbox360",
+    "nombre": "Snoopy's Grand Adventure",
+    "consola": "xbox360",
+    "region": "MULTI",
+    "descripcion": "Juego de plataformas y aventura basado en la clásica tira cómica de Peanuts, con puzzles, exploración y el encantador estilo de Snoopy y sus amigos.",
+    "tamano": "6.5 GB",
+    "url": "https://drive.google.com/file/d/1q5H6pAMZ9BtIx8hvYqL9cogPUxdMsoBf/view?usp=drive_link"
   }
   ]
   }
