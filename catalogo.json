@@ -1973,6 +1973,15 @@
     "descripcion": "El épico RPG de Square que cerró la era dorada de PlayStation, con una historia inolvidable, personajes entrañables y un sistema de combate por turnos magistral. Incluye los 4 discos.",
     "tamano": "1.7 GB",
     "url": "https://drive.google.com/file/d/1CElMqcO6SG9ET39IPgsE7rTVAZ0gUgv4/view?usp=drive_link"
+  },
+  {
+    "id": "nhl-15-xbox360",
+    "nombre": "NHL 15",
+    "consola": "xbox360",
+    "region": "USA / Europa",
+    "descripcion": "Simulador de hockey sobre hielo de EA Sports con físicas de jugador mejoradas, modo Be a Pro renovado y una experiencia de juego más realista.",
+    "tamano": "6.4 GB",
+    "url": "https://drive.google.com/file/d/120tMuFrup0Md0CmixBIeftwnwf5qzCr1/view?usp=drive_link"
   }
   ]
   }
