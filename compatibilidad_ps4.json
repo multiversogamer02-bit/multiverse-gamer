@@ -1,0 +1,5 @@
+{
+  "_comentario": "Compatibilidad de juegos de PS4 en shadPS4. Clave = CUSA del juego. Estados validos: jugable, en_juego, arranca, no_arranca, nada. La app lo baja y cachea; se actualiza solo cuando subis este archivo.",
+  "CUSA07023": "jugable",
+  "CUSA46399": "no_arranca"
+}
