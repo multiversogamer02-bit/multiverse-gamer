@@ -1964,6 +1964,15 @@
     "descripcion": "Versión modificada del simulador de fútbol con actualizaciones de plantillas, parches de jugabilidad y múltiples idiomas. Ideal para tener la experiencia más completa y actualizada.",
     "tamano": "45 GB",
     "url": "https://drive.google.com/file/d/1in0KVBx-e1gYjdVoQIyeILnATAFJoD8K/view?usp=drive_link"
+  },
+  {
+    "id": "final-fantasy-ix-usa-ps1",
+    "nombre": "Final Fantasy IX",
+    "consola": "ps1",
+    "region": "USA",
+    "descripcion": "El épico RPG de Square que cerró la era dorada de PlayStation, con una historia inolvidable, personajes entrañables y un sistema de combate por turnos magistral. Incluye los 4 discos.",
+    "tamano": "1.7 GB",
+    "url": "https://drive.google.com/file/d/1CElMqcO6SG9ET39IPgsE7rTVAZ0gUgv4/view?usp=drive_link"
   }
   ]
   }
