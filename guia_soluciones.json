@@ -1,0 +1,159 @@
+[
+  {
+    "id": "colores-compatibilidad",
+    "categoria": "Biblioteca",
+    "titulo": "¿Qué significan los colores 🟢🟡🔴 al lado del nombre?",
+    "sintoma": "Algunos juegos de PS4 y Xbox 360 muestran un color adelante del nombre.",
+    "causa": "Son el estado de compatibilidad del juego en su emulador, armado por la comunidad.",
+    "pasos": [
+      "🟢 Jugable: anda bien.",
+      "🟡 Entra al juego con fallas.",
+      "🟠 Solo llega al menú.",
+      "🔴 No arranca todavía.",
+      "Cuando probás un juego y lo cerrás, tu resultado se suma (anónimo) a la lista para ayudar a otros."
+    ],
+    "nota": "Podés activar o desactivar el compartir en Ajustes."
+  },
+  {
+    "id": "juego-duplicado",
+    "categoria": "Biblioteca",
+    "titulo": "Un juego me aparece duplicado",
+    "sintoma": "El mismo juego figura dos veces en la biblioteca.",
+    "causa": "El juego trae archivos 'acompañantes' (por ejemplo un .dvd en Xbox 360) que antes se contaban como un juego aparte.",
+    "pasos": [
+      "Actualizá a la última versión de Multiverse Gamer.",
+      "Tocá 'Escanear' en la Biblioteca: la lista se reconstruye y queda una sola entrada."
+    ],
+    "nota": "La app ya ignora los acompañantes típicos (.dvd, .sfv, .md5, etc.)."
+  },
+  {
+    "id": "formatos-comprimidos",
+    "categoria": "Tienda / Descargas",
+    "titulo": "¿En qué formato conviene subir los juegos?",
+    "sintoma": "No sé si usar .zip, .7z o .rar.",
+    "causa": "",
+    "pasos": [
+      ".zip: abre siempre, sin instalar nada extra.",
+      ".7z: abre siempre (la app lo trae incluido). Pesa menos: ideal para juegos grandes.",
+      ".rar: necesita tener 7-Zip o WinRAR instalado en la PC. Evitalo si podés."
+    ],
+    "nota": "Podés armar cada disco de un juego multi-disco dentro de un solo comprimido; la app abre también los comprimidos anidados."
+  },
+  {
+    "id": "descarga-danada",
+    "categoria": "Tienda / Descargas",
+    "titulo": "La descarga no instala nada / la carpeta queda vacía",
+    "sintoma": "Baja el juego, empieza a descomprimir y no instala nada; la carpeta del juego queda vacía.",
+    "causa": "El archivo vino dañado o incompleto, o Google Drive devolvió una página de aviso en vez del juego (pasa con archivos grandes o muy descargados).",
+    "pasos": [
+      "Probá descargar de nuevo (a veces Drive lo deja al rato).",
+      "Abrí el archivo de origen en tu PC antes de subirlo: tiene que abrir y mostrar los archivos del juego.",
+      "Para juegos pesados, subilo como .7z (pesa menos) o usá otro hosting más estable que Drive."
+    ],
+    "nota": "La app ahora te avisa con un mensaje claro cuando la descarga vino dañada, en vez de dejar la carpeta vacía."
+  },
+  {
+    "id": "falta-bios-firmware",
+    "categoria": "General / Emuladores",
+    "titulo": "El juego se abre y se cierra: 'Falta el BIOS / firmware'",
+    "sintoma": "Un juego de PS1, PS2, PS3, PSP o Switch se abre y se cierra al toque, y la app avisa que falta el BIOS o el firmware.",
+    "causa": "Esos emuladores necesitan el BIOS/firmware que se saca de tu propia consola (por eso la app no lo trae).",
+    "pasos": [
+      "Cuando aparece el aviso, tocá 'Abrir el Asistente de BIOS'.",
+      "Seguí las instrucciones: te dice qué archivo falta y dónde ponerlo."
+    ],
+    "nota": "Xbox 360 (Xenia), GameCube/Wii, Wii U y la mayoría de las consolas retro NO necesitan BIOS ni firmware."
+  },
+  {
+    "id": "error-qt-componentes",
+    "categoria": "General / Emuladores",
+    "titulo": "El emulador no abre (error de Qt / componentes)",
+    "sintoma": "Al lanzar un juego, el emulador no abre y menciona 'Qt platform plugin' o un componente que falta.",
+    "causa": "Al emulador le faltan archivos o quedó una instalación a medias.",
+    "pasos": [
+      "En la app: pestaña Emuladores → 'Instalar emuladores'.",
+      "Reinstalá ese emulador: queda limpio y en su última versión."
+    ],
+    "nota": ""
+  },
+  {
+    "id": "falta-visual-cpp",
+    "categoria": "General / Emuladores",
+    "titulo": "'Falta Visual C++' o falta una DLL del sistema",
+    "sintoma": "El emulador pide un archivo del sistema, o menciona Visual C++, vcruntime o msvcp140.",
+    "causa": "Falta el paquete 'Visual C++' de Microsoft (gratis y oficial).",
+    "pasos": [
+      "Cuando aparece el aviso en la app, tocá 'Descargar Visual C++'.",
+      "Instalalo (es una sola vez) y volvé a probar el juego."
+    ],
+    "nota": "Con eso andan todos los emuladores que lo necesiten."
+  },
+  {
+    "id": "ps1-multidisco",
+    "categoria": "PlayStation 1 (DuckStation)",
+    "titulo": "Juego de varios discos (ej. Final Fantasy IX)",
+    "sintoma": "El juego viene con 2, 3 o 4 discos.",
+    "causa": "",
+    "pasos": [
+      "Subí los discos en un solo comprimido (o cada disco en su propio .zip, todo junto).",
+      "La app los junta en una sola entrada automáticamente.",
+      "DuckStation cambia de disco solo cuando el juego lo pide."
+    ],
+    "nota": "Formatos de disco que reconoce: .cue+.bin, .pbp, .chd, .img."
+  },
+  {
+    "id": "ps4-experimental",
+    "categoria": "PlayStation 4 (shadPS4)",
+    "titulo": "Un juego de PS4 abre y se cierra (ej. EA Sports FC)",
+    "sintoma": "shadPS4 abre el juego y se cierra, se queda en negro o crashea.",
+    "causa": "shadPS4 es un emulador experimental: muchos juegos de PS4 todavía no corren, aunque se instalen perfecto.",
+    "pasos": [
+      "Mirá el color de compatibilidad al lado del nombre.",
+      "Si está 🔴, ese juego todavía no anda en shadPS4: no es un problema de tu instalación.",
+      "Probá con juegos marcados 🟢 para confirmar que tu equipo funciona bien."
+    ],
+    "nota": "La extracción y la instalación pueden estar perfectas y aún así el emulador no bancar ese juego."
+  },
+  {
+    "id": "xenia-crash-juego",
+    "categoria": "Xbox 360 (Xenia)",
+    "titulo": "El juego crashea al abrir (ej. Assassin's Creed)",
+    "sintoma": "Xenia abre el juego y aparece 'Unhandled Exception in Xenia' / 'The guest has crashed'.",
+    "causa": "En placas de video AMD, el motor gráfico Vulkan de Xenia suele hacer crashear juegos.",
+    "pasos": [
+      "Cerrá Xenia por completo.",
+      "Abrí el archivo 'xenia-canary.config.toml' (en la carpeta de Xenia) con el Bloc de notas, o entrá al menú de gráficos dentro de Xenia.",
+      "Cambiá el motor de gráficos a Direct3D 12: la línea gpu = \"any\" dejala como gpu = \"d3d12\".",
+      "Guardá y volvé a abrir el juego desde Multiverse Gamer.",
+      "Si el juego anda pero ves parpadeos, agregá bajo [GPU] la línea: occlusion_query = \"strict\"."
+    ],
+    "nota": "Xbox 360 en Xenia es experimental: algunos juegos andan perfecto, otros necesitan ajustes y otros todavía no funcionan."
+  },
+  {
+    "id": "xenia-crear-usuario",
+    "categoria": "Xbox 360 (Xenia)",
+    "titulo": "Xenia se cierra al 'crear usuario'",
+    "sintoma": "Al abrir Xenia desde la app te pide crear un usuario, lo creás y se traba y se cierra.",
+    "causa": "El Xenia que viene dentro de 'Xenia Manager' guarda los perfiles en un enlace que suele estar roto.",
+    "pasos": [
+      "No uses el Xenia que está dentro de la carpeta de Xenia Manager.",
+      "En la app: Emuladores → 'Instalar emuladores' → bajá el Xenia Canary limpio.",
+      "Volvé a 'Detectar emuladores'.",
+      "Ahora crear el usuario funciona sin cerrarse."
+    ],
+    "nota": "Las versiones nuevas de la app ya eligen solas el Xenia limpio y evitan el de Xenia Manager."
+  },
+  {
+    "id": "xbox360-multidisco",
+    "categoria": "Xbox 360 (Xenia)",
+    "titulo": "Juego de 360 con disco de instalación y disco de juego",
+    "sintoma": "El juego de Xbox 360 viene en dos discos.",
+    "causa": "Xbox 360 no cambia de disco automáticamente como PS1.",
+    "pasos": [
+      "Cada disco aparece como su propia entrada en la biblioteca.",
+      "Lanzá el disco de juego (no el de instalación).",
+      "Para no confundirte, nombrá las carpetas claro: 'Disco 1 - Instalación' y 'Disco 2 - Juego'."
+    ],
+    "nota": ""
+  }
+]
