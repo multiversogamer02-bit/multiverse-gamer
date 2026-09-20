@@ -119,15 +119,14 @@
     "categoria": "Xbox 360 (Xenia)",
     "titulo": "El juego crashea al abrir (ej. Assassin's Creed)",
     "sintoma": "Xenia abre el juego y aparece 'Unhandled Exception in Xenia' / 'The guest has crashed'.",
-    "causa": "En placas de video AMD, el motor gráfico Vulkan de Xenia suele hacer crashear juegos.",
+    "causa": "Casi siempre es por usar una versión VIEJA de Xenia (muchos juegos se arreglan en builds nuevos). También, en placas AMD, el motor gráfico Vulkan suele hacer crashear.",
     "pasos": [
-      "Cerrá Xenia por completo.",
-      "Abrí el archivo 'xenia-canary.config.toml' (en la carpeta de Xenia) con el Bloc de notas, o entrá al menú de gráficos dentro de Xenia.",
-      "Cambiá el motor de gráficos a Direct3D 12: la línea gpu = \"any\" dejala como gpu = \"d3d12\".",
-      "Guardá y volvé a abrir el juego desde Multiverse Gamer.",
-      "Si el juego anda pero ves parpadeos, agregá bajo [GPU] la línea: occlusion_query = \"strict\"."
+      "Actualizá Xenia a la última versión: en la app, pestaña Emuladores → 'Instalar emuladores' (reinstala el Xenia más nuevo). Muchos crashes se van solo con esto.",
+      "Si sigue: cerrá Xenia y en 'Ajustes rápidos de Xbox 360' poné el Motor de video en Direct3D 12.",
+      "Volvé a abrir el juego desde Multiverse Gamer.",
+      "Si el juego anda pero ves parpadeos, agregá bajo [GPU] en xenia-canary.config.toml la línea: occlusion_query = \"strict\"."
     ],
-    "nota": "Xbox 360 en Xenia es experimental: algunos juegos andan perfecto, otros necesitan ajustes y otros todavía no funcionan."
+    "nota": "Xbox 360 en Xenia es experimental: algunos juegos andan perfecto, otros necesitan ajustes y otros todavía no funcionan. Tener Xenia actualizado es lo que más ayuda."
   },
   {
     "id": "xenia-crear-usuario",
