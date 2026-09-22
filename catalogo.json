@@ -2108,6 +2108,42 @@
     "descripcion": "Aventura de mundo abierto donde te balanceas por Nueva York, luchando contra villanos clásicos con la tecnología Web Rush.",
     "tamano": "7.9 GB",
     "url": "https://drive.google.com/file/d/1B3VmT9WcAx0IVQxdRPXtmZ1KRnmCNYbR/view?usp=drive_link"
+  },
+  {
+    "id": "angry-birds-trilogy-usa-wiiu",
+    "nombre": "Angry Birds Trilogy",
+    "consola": "wiiu",
+    "region": "USA",
+    "descripcion": "Compilación de los primeros tres juegos de la saga, adaptados para aprovechar la pantalla táctil del GamePad de Wii U.",
+    "tamano": "2.6 GB",
+    "url": "https://drive.google.com/file/d/13SnYkOqKgv5PCvMGEHOJrO8kvVsOBS6L/view?usp=drive_link"
+  },
+  {
+    "id": "animal-crossing-amiibo-festival-usa-wiiu",
+    "nombre": "Animal Crossing: Amiibo Festival",
+    "consola": "wiiu",
+    "region": "USA",
+    "descripcion": "Juego de mesa digital de la serie Animal Crossing, diseñado para interactuar con figuras Amiibo y usar el GamePad como tablero personal.",
+    "tamano": "2.6 GB",
+    "url": "https://drive.google.com/file/d/1YLsF9K6eHFdfbMGXSXFsZBDvmiyERVgR/view?usp=drive_link"
+  },
+  {
+    "id": "angry-birds-star-wars-usa-wiiu",
+    "nombre": "Angry Birds Star Wars",
+    "consola": "wiiu",
+    "region": "USA",
+    "descripcion": "La fusión de Angry Birds con la saga Star Wars, usando el GamePad para apuntar y lanzar a los personajes con habilidades de la Fuerza.",
+    "tamano": "2.3 GB",
+    "url": "https://drive.google.com/file/d/1pup7DmJ-OiiIruuX37tnTwZ5Ddr3Es59/view?usp=drive_link"
+  },
+  {
+    "id": "the-amazing-spider-man-ultimate-edition-usa-wiiu",
+    "nombre": "The Amazing Spider-Man: Ultimate Edition",
+    "consola": "wiiu",
+    "region": "USA",
+    "descripcion": "Edición mejorada del juego de mundo abierto, con misiones extra, desafíos de combate y el uso del GamePad para el menú de araña.",
+    "tamano": "8.6 GB",
+    "url": "https://drive.google.com/file/d/1tNuVnxEZOU08aYel5frrSQYBEtRQWT-e/view?usp=drive_link"
   }
   ]
   }
