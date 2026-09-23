@@ -81,12 +81,14 @@
     "categoria": "General / Emuladores",
     "titulo": "'Falta Visual C++' o falta una DLL del sistema",
     "sintoma": "El emulador pide un archivo del sistema, o menciona Visual C++, vcruntime o msvcp140.",
-    "causa": "Falta el paquete 'Visual C++' de Microsoft (gratis y oficial).",
+    "causa": "Falta el paquete 'Visual C++' de Microsoft (gratis y oficial), o está instalado pero es una versión vieja. Los emuladores nuevos (por ejemplo Dolphin) necesitan la versión 14.40 o posterior: con una más vieja no abren o se cierran solos.",
     "pasos": [
-      "Cuando aparece el aviso en la app, tocá 'Descargar Visual C++'.",
-      "Instalalo (es una sola vez) y volvé a probar el juego."
+      "Tocá 🩺 Salud → 'Piezas del sistema'. Ahí la app te dice si el Visual C++ está bien, falta o está 'Desactualizado' (con la versión que encontró).",
+      "Si dice 'Falta' o 'Desactualizado', tocá 'Instalar' / 'Actualizar': la app baja el instalador oficial de Microsoft y lo abre.",
+      "Instalalo (Aceptar, Instalar). Si te pregunta, elegí 'Reparar'. Es una sola vez.",
+      "Volvé a probar el juego."
     ],
-    "nota": "Con eso andan todos los emuladores que lo necesiten."
+    "nota": "Instalar la última versión nunca rompe nada: es compatible con todos los programas que usaban una más vieja."
   },
   {
     "id": "ps1-multidisco",
@@ -154,5 +156,18 @@
       "Para no confundirte, nombrá las carpetas claro: 'Disco 1 - Instalación' y 'Disco 2 - Juego'."
     ],
     "nota": ""
+  },
+  {
+    "id": "sesion-se-pierde-al-reiniciar",
+    "categoria": "Cuenta y sesión",
+    "titulo": "Me pide iniciar sesión de nuevo cada vez que prendo la PC",
+    "sintoma": "Al reiniciar la computadora, la app no entra sola y hay que volver a iniciar sesión (por ejemplo con Google), aunque haya marcado 'Recordar sesión'.",
+    "causa": "Por seguridad, la sesión se renueva sola más o menos cada hora y la llave anterior deja de servir. Las versiones viejas no guardaban la llave nueva, así que al reiniciar la PC usaban una vencida.",
+    "pasos": [
+      "Actualizá a la última versión de Multiverse Gamer (1.20.63 o posterior).",
+      "Iniciá sesión una vez más con 'Recordar sesión' marcado.",
+      "Listo: desde ahora la app guarda cada renovación y entra sola aunque reinicies la PC."
+    ],
+    "nota": "Si cerrás sesión a propósito (botón 'Cerrar sesión'), la próxima vez sí te va a pedir entrar de nuevo: es lo esperado."
   }
 ]
