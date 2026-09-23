@@ -183,7 +183,7 @@
       "Paso 2: volvé a tocar el botón: la app baja y abre DS4Windows. Si pide instalar '.NET', aceptá.",
       "Dejá DS4Windows abierto mientras jugás: Windows ve tu mando como uno de Xbox."
     ],
-    "nota": "Si en algún emulador el mando responde doble (lo ve como PlayStation y como Xbox), cerrá DS4Windows mientras jugás ese. El mando de PS3 necesita otro programa."
+    "nota": "Si en algún emulador el mando responde doble (lo ve como PlayStation y como Xbox), cerrá DS4Windows mientras jugás ese. Para el mando de PS3 mirá «Mi mando de PS3 no anda»."
   },
   {
     "id": "dolphin-automatico",
@@ -196,5 +196,20 @@
       "Volvé a tocar 'Jugar'."
     ],
     "nota": "Desde la 1.20.64 la app baja Dolphin sola desde su página oficial y te avisa al instalarlo si falta el Visual C++."
+  },
+  {
+    "id": "mando-ps3",
+    "categoria": "Mandos",
+    "titulo": "Mi mando de PS3 (DualShock 3) no anda",
+    "sintoma": "Windows reconoce el mando de PS3 al enchufarlo, pero en los juegos no responde.",
+    "causa": "Windows no trae driver para el mando de PS3. Hace falta DsHidMini, un driver gratis y oficial de la comunidad (del mismo autor que ViGEmBus).",
+    "pasos": [
+      "Conectá el mando por USB y abrí 'Probar mi mando'. Tocá 'Volver a detectar'.",
+      "Tocá 'Instalar driver de PS3 (DsHidMini)' e instalalo (Next, Install).",
+      "Desenchufá y volvé a enchufar el mando.",
+      "Tocá 'Configurar mando de PS3': se abre DSHMC. Elegí tu mando y en 'HID Mode' poné 'XInput'. Así anda en todos los emuladores, también en Xenia.",
+      "Sin cable: tocá 'Usarlo por Bluetooth' (instala BthPS3), enchufá el mando una vez por USB, desenchufalo y apretá el botón PS."
+    ],
+    "nota": "No hace falta DS4Windows ni dejar ningún programa abierto. El sensor de movimiento del mando de PS3 no está soportado."
   }
 ]
