@@ -169,5 +169,32 @@
       "Listo: desde ahora la app guarda cada renovación y entra sola aunque reinicies la PC."
     ],
     "nota": "Si cerrás sesión a propósito (botón 'Cerrar sesión'), la próxima vez sí te va a pedir entrar de nuevo: es lo esperado."
+  },
+  {
+    "id": "mando-playstation",
+    "categoria": "Mandos",
+    "titulo": "Mi mando de PlayStation (PS4 / PS5) no anda en algún emulador",
+    "sintoma": "El DualShock 4 o el DualSense no responde en Xenia (Xbox 360) o en xemu, o 'Probar mi mando' dice que no hay mando.",
+    "causa": "Los mandos de PlayStation no hablan el 'idioma' de los mandos de Xbox (XInput). La mayoría de los emuladores igual los entienden, pero Xenia y xemu solo aceptan mandos de Xbox.",
+    "pasos": [
+      "En DuckStation, PCSX2, RPCS3, Dolphin, Cemu y Ryujinx el mando anda directo: si no lo toma, elegilo una vez en la configuración de controles de ese emulador.",
+      "Para Xenia o xemu: abrí 'Probar mi mando' y tocá 'Activar modo Xbox (DS4Windows)'.",
+      "Paso 1: la app baja 'ViGEmBus' (driver gratis). Instalalo con Next → Install.",
+      "Paso 2: volvé a tocar el botón: la app baja y abre DS4Windows. Si pide instalar '.NET', aceptá.",
+      "Dejá DS4Windows abierto mientras jugás: Windows ve tu mando como uno de Xbox."
+    ],
+    "nota": "Si en algún emulador el mando responde doble (lo ve como PlayStation y como Xbox), cerrá DS4Windows mientras jugás ese. El mando de PS3 necesita otro programa."
+  },
+  {
+    "id": "dolphin-automatico",
+    "categoria": "General / Emuladores",
+    "titulo": "Dolphin (GameCube / Wii) no abre después de instalarlo",
+    "sintoma": "Dolphin se instaló desde la app pero no abre, o avisa que falta el Visual C++ o msvcp140.dll.",
+    "causa": "Dolphin necesita el Visual C++ de Microsoft en versión 14.40 o posterior.",
+    "pasos": [
+      "Tocá 🩺 Salud → 'Piezas del sistema' y, si el Visual C++ dice 'Falta' o 'Desactualizado', tocá 'Instalar' / 'Actualizar'.",
+      "Volvé a tocar 'Jugar'."
+    ],
+    "nota": "Desde la 1.20.64 la app baja Dolphin sola desde su página oficial y te avisa al instalarlo si falta el Visual C++."
   }
 ]
