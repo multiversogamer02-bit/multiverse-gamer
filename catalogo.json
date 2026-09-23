@@ -2144,6 +2144,14 @@
     "descripcion": "Edición mejorada del juego de mundo abierto, con misiones extra, desafíos de combate y el uso del GamePad para el menú de araña.",
     "tamano": "8.6 GB",
     "url": "https://drive.google.com/file/d/1tNuVnxEZOU08aYel5frrSQYBEtRQWT-e/view?usp=drive_link"
+  },
+  {
+    "id": "bios-ps1",
+    "nombre": "BIOS de PS1",
+    "consola": "ps1",
+    "descripcion": "Archivo de BIOS del sistema necesario para emular la PlayStation 1. Imprescindible para que los juegos funcionen correctamente en el emulador.",
+    "tamano": "1 MB",
+    "url": "https://drive.google.com/file/d/1bvFoS0wSM2HGKEkio5YA7mosKa9yXfAw/view?usp=drive_link"
   }
   ]
   }
