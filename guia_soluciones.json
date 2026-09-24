@@ -211,5 +211,18 @@
       "Sin cable: tocá 'Usarlo por Bluetooth' (instala BthPS3), enchufá el mando una vez por USB, desenchufalo y apretá el botón PS."
     ],
     "nota": "No hace falta DS4Windows ni dejar ningún programa abierto. El sensor de movimiento del mando de PS3 no está soportado."
+  },
+  {
+    "id": "wiiu-cierra-despues-titulo",
+    "categoria": "Wii U (Cemu)",
+    "titulo": "Un juego de Wii U se cierra solo (ej. New Super Mario Bros. U después de la pantalla principal)",
+    "sintoma": "El juego abre, muestra la pantalla principal y al tocar un botón Cemu se cierra.",
+    "causa": "Algunos juegos de Wii U buscan archivos que solo tiene la consola (por ejemplo los datos de los Mii). La comunidad de Cemu hizo parches gratuitos que evitan ese cuelgue.",
+    "pasos": [
+      "Actualizá Multiverse Gamer a la 1.20.66 o posterior: la app baja sola los parches de la comunidad antes de abrir Cemu y los mantiene al día.",
+      "Volvé a abrir el juego desde la app.",
+      "Si sigue: abrí Cemu desde Emuladores → Opciones → Graphic packs, tocá 'Download latest community graphic packs' y en tu juego → Workarounds marcá el arreglo que aparezca."
+    ],
+    "nota": "Los parches no incluyen archivos de Nintendo: son correcciones de texto hechas por la comunidad (licencia libre)."
   }
 ]
