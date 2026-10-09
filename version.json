@@ -1,5 +1,5 @@
 {
-  "version": "1.20.67",
+  "version": "1.21.0",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Novedades de esta versión:\n• Wii U: la app baja sola los parches de la comunidad de Cemu. Arregla juegos que se cerraban (ej. New Super Mario Bros. U después de la pantalla principal).\n• Dolphin (GameCube / Wii) se instala solo desde la app (arreglado: ahora encuentra la descarga siempre).\n• Mandos de PlayStation (PS4 / PS5): «Probar mi mando» los detecta y con un botón activa el «modo Xbox» para Xenia y xemu.\n• Mando de PS3 (DualShock 3): la app instala su driver (DsHidMini) con un botón, y el Bluetooth (BthPS3) si lo querés sin cable.\n• La app detecta si el Visual C++ de Windows está viejo y te avisa al instalar un emulador.\n• La sesión ya no se pierde al reiniciar la PC (con «Recordar sesión»).\n• La rueda del mouse ya no cambia opciones sin querer."
+  "notas": "Novedades de esta versión:\n• Nueva pestaña «⭐ Nuestros juegos»: los juegos hechos por Multiverse Gamer Studio, con su presentación, capturas y un botón para instalarlos, jugarlos y actualizarlos.\n• El primero: Total Crisis: Global Conflict, estrategia de guerra moderna en tiempo real. Gratis.\n• La Tienda ahora también instala juegos de PC (no solo de consola): quedan en tu Biblioteca como «Juego de PC», listos para jugar.\n• Cuando sale una versión nueva de uno de esos juegos aparece «⬆ Actualizar» (tus partidas guardadas no se tocan)."
 }
