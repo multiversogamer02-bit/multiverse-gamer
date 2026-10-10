@@ -5,12 +5,12 @@
       "nombre": "Total Crisis: Global Conflict",
       "consola": "pc",
       "ejecutable": "TotalCrisis.exe",
-      "version": "0.9.0",
+      "version": "0.9.1",
       "descripcion": "Estrategia de guerra moderna en tiempo real: 198 países, IA, partidas en línea y mods. Hecho por Multiverse Gamer Studio.",
       "tamano": "171 MB",
-      "url_pc": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/download/total-crisis-v0.9.0/TotalCrisis-Windows-0.9.0.zip",
+      "url_pc": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/download/total-crisis-v0.9.1/TotalCrisis-Windows-0.9.1.zip",
       "estudio": true,
-      "imagen": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/download/total-crisis-v0.9.0/total-crisis-portada.jpg",
+      "imagen": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/download/total-crisis-v0.9.1/total-crisis-portada.jpg",
       "genero": "Estrategia en tiempo real",
       "estado": "Acceso anticipado",
       "descripcion_larga": "Elegí cualquiera de los 198 países y llevalo a la victoria en un mapa del mundo real con 1138 provincias. Economía, diplomacia y guerra pasan al mismo tiempo, contra la IA o contra otros jugadores. Alianzas, la ONU, espionaje, clima y estaciones, armas nucleares, editor de escenarios y mods.",
@@ -22,11 +22,11 @@
         "Mods y editor",
         "7 idiomas"
       ],
-      "banner": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/download/total-crisis-v0.9.0/total-crisis-banner.jpg",
+      "banner": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/download/total-crisis-v0.9.1/total-crisis-banner.jpg",
       "capturas": [
-        "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/download/total-crisis-v0.9.0/total-crisis-captura-1.jpg",
-        "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/download/total-crisis-v0.9.0/total-crisis-captura-2.jpg",
-        "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/download/total-crisis-v0.9.0/total-crisis-captura-3.jpg"
+        "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/download/total-crisis-v0.9.1/total-crisis-captura-1.jpg",
+        "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/download/total-crisis-v0.9.1/total-crisis-captura-2.jpg",
+        "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/download/total-crisis-v0.9.1/total-crisis-captura-3.jpg"
       ]
     }
   ]
