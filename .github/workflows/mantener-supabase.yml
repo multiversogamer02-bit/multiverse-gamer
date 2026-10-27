@@ -16,8 +16,20 @@ jobs:
     steps:
       - name: Consulta a la base de Supabase
         run: |
-          curl --fail --silent --show-error --retry 3 --retry-delay 20 \
-            "https://qokalvdmgigofgpobmel.supabase.co/rest/v1/anuncios?select=id&limit=1" \
-            -H "apikey: sb_publishable_7MimMLyy9OtjPrp4_XwsaA_-KWNHacZ"
-          echo ""
-          echo "Supabase respondió: sigue despierto."
+          # La consulta llega a la base de datos (eso es lo que cuenta como actividad).
+          # Sin sesión la base contesta «sin permiso» (código 42501): está bien, quiere
+          # decir que la base respondió. Si Supabase está pausado o caído, contesta otra cosa.
+          for intento in 1 2 3; do
+            codigo=$(curl --silent --output respuesta.txt --write-out "%{http_code}" \
+              "https://qokalvdmgigofgpobmel.supabase.co/rest/v1/anuncios?select=id&limit=1" \
+              -H "apikey: sb_publishable_7MimMLyy9OtjPrp4_XwsaA_-KWNHacZ")
+            echo "Intento $intento: HTTP $codigo"
+            cat respuesta.txt; echo ""
+            if [ "$codigo" = "200" ] || grep -q "42501" respuesta.txt; then
+              echo "Supabase respondió: sigue despierto."
+              exit 0
+            fi
+            sleep 20
+          done
+          echo "Supabase no respondió bien: puede estar pausado. Entrá al panel de Supabase."
+          exit 1
