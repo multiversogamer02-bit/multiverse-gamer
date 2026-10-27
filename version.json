@@ -1,5 +1,5 @@
 {
-  "version": "1.22.2",
+  "version": "1.22.3",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Novedades de esta versión:\n• Partida en la nube para Total Crisis: tu partida se guarda en tu cuenta y la podés seguir en el celular (o al revés). En el menú del juego aparece «Seguir la partida de tu otro dispositivo».\n• Actualizá a esta versión para usar la partida en la nube."
+  "notas": "Novedades de esta versión:\n• «¿Olvidaste tu contraseña?» ahora funciona de punta a punta: el link del correo te lleva a una página donde elegís tu contraseña nueva.\n• Incluye la partida en la nube para Total Crisis (seguí en el celular lo que jugaste en la PC, o al revés)."
 }
