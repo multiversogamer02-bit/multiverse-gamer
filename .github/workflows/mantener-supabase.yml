@@ -1,0 +1,23 @@
+# Mantiene despierto el proyecto de Supabase de Multiverse Gamer.
+# En el plan gratis, Supabase pausa el proyecto si pasa una semana con poca actividad
+# (y mientras está pausado la app no puede iniciar sesión, comprar ni guardar en la nube).
+# Esto hace una consulta chiquita a la base todos los días, gratis, desde GitHub.
+# Si un día falla (Supabase caído o pausado), GitHub te manda un email.
+name: Mantener Supabase despierto
+
+on:
+  schedule:
+    - cron: "17 12 * * *"   # todos los días a las 9:17 de Argentina (12:17 UTC)
+  workflow_dispatch:         # botón "Run workflow" para probarlo a mano
+
+jobs:
+  latido:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Consulta a la base de Supabase
+        run: |
+          curl --fail --silent --show-error --retry 3 --retry-delay 20 \
+            "https://qokalvdmgigofgpobmel.supabase.co/rest/v1/anuncios?select=id&limit=1" \
+            -H "apikey: sb_publishable_7MimMLyy9OtjPrp4_XwsaA_-KWNHacZ"
+          echo ""
+          echo "Supabase respondió: sigue despierto."
