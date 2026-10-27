@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Nueva contraseña · Multiverse Gamer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700&family=Manrope:wght@400;500;600;700&display=swap">
+<!--
+  Página para elegir una contraseña nueva de Multiverse Gamer.
+  Llega acá quien tocó el link del correo «Restablecer tu contraseña» (lo manda Supabase,
+  con redirect_to = esta página). Supabase agrega al final del link un permiso de un solo uso
+  (#access_token=...&type=recovery); con ese permiso esta página cambia la contraseña.
+  Va en el repo de GitHub Pages: multiversogamer02-bit.github.io/restablecer/index.html
+-->
+<style>
+  :root{
+    --ground:#0b0d16; --surface:#151a29; --surface-2:#1b2133; --line:#262c40;
+    --violet:#7c5cff; --violet-2:#9a80ff; --teal:#00d4a0; --red:#ff6b6b;
+    --text:#eaecf7; --muted:#9aa0b8;
+    font-family:'Manrope',system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;min-height:100vh;background:radial-gradient(1200px 600px at 50% -10%,rgba(124,92,255,.22),transparent 60%),var(--ground);
+    color:var(--text);display:flex;align-items:center;justify-content:center;padding:24px 16px;line-height:1.55}
+  .tarjeta{width:100%;max-width:440px;background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:28px 24px;
+    box-shadow:0 24px 60px -24px rgba(0,0,0,.7)}
+  .marca{font-family:'Sora',sans-serif;font-weight:700;font-size:15px;letter-spacing:.04em;color:var(--violet-2);margin:0 0 18px}
+  h1{font-family:'Sora',sans-serif;font-size:24px;line-height:1.2;margin:0 0 8px}
+  p{margin:0 0 16px;color:var(--muted);font-size:15px}
+  label{display:block;font-size:14px;font-weight:600;margin:14px 0 6px}
+  .campo{position:relative}
+  input{width:100%;height:50px;padding:0 48px 0 14px;border-radius:12px;border:1px solid var(--line);background:var(--surface-2);
+    color:var(--text);font:inherit;font-size:16px;outline:none}
+  input:focus{border-color:var(--violet)}
+  .ver{position:absolute;right:6px;top:6px;width:38px;height:38px;border:0;border-radius:9px;background:transparent;color:var(--muted);cursor:pointer}
+  .ver:hover{color:var(--text)}
+  .ayuda{font-size:13px;color:var(--muted);margin-top:6px}
+  button.principal{width:100%;height:52px;margin-top:22px;border:0;border-radius:12px;background:var(--violet);color:#fff;
+    font:inherit;font-weight:700;font-size:16px;cursor:pointer}
+  button.principal:hover{background:var(--violet-2)}
+  button.principal:disabled{opacity:.55;cursor:default}
+  .mensaje{margin-top:16px;padding:12px 14px;border-radius:12px;font-size:14px;display:none}
+  .mensaje.error{display:block;background:rgba(255,107,107,.1);border:1px solid rgba(255,107,107,.4);color:#ffb3b3}
+  .mensaje.ok{display:block;background:rgba(0,212,160,.1);border:1px solid rgba(0,212,160,.4);color:#8ff0d2}
+  .oculto{display:none}
+  a{color:var(--violet-2)}
+</style>
+</head>
+<body>
+<main class="tarjeta">
+  <p class="marca">MULTIVERSE GAMER</p>
+
+  <!-- 1) el formulario -->
+  <section id="formulario" class="oculto">
+    <h1>Elegí tu contraseña nueva</h1>
+    <p>Escribila dos veces. Después volvé a la app y entrá con ella.</p>
+    <form id="form" novalidate>
+      <label for="clave">Contraseña nueva</label>
+      <div class="campo">
+        <input id="clave" type="password" autocomplete="new-password" minlength="6" required>
+        <button type="button" class="ver" data-para="clave" aria-label="Mostrar la contraseña">Ver</button>
+      </div>
+      <div class="ayuda">Mínimo 6 caracteres.</div>
+      <label for="clave2">Repetila</label>
+      <div class="campo">
+        <input id="clave2" type="password" autocomplete="new-password" minlength="6" required>
+        <button type="button" class="ver" data-para="clave2" aria-label="Mostrar la contraseña">Ver</button>
+      </div>
+      <button class="principal" id="guardar" type="submit">Guardar contraseña</button>
+    </form>
+    <div class="mensaje" id="mensaje" role="status"></div>
+  </section>
+
+  <!-- 2) listo -->
+  <section id="listo" class="oculto">
+    <h1>¡Listo! Ya cambiaste tu contraseña</h1>
+    <p>Volvé a Multiverse Gamer y entrá con tu email y la contraseña nueva. Ya podés cerrar esta página.</p>
+    <p><a href="https://multiversogamer02-bit.github.io/">Ir a la página de Multiverse Gamer</a></p>
+  </section>
+
+  <!-- 3) el link no sirve -->
+  <section id="vencido" class="oculto">
+    <h1>Este link ya no sirve</h1>
+    <p id="motivo">Los links para cambiar la contraseña sirven una sola vez y por un rato.</p>
+    <p>Abrí Multiverse Gamer, tocá <b>«¿Olvidaste tu contraseña?»</b> y pedí un correo nuevo. Usá el último que te llegue.</p>
+    <p><a href="https://multiversogamer02-bit.github.io/">Ir a la página de Multiverse Gamer</a></p>
+  </section>
+</main>
+
+<script>
+(function () {
+  // El mismo proyecto de Supabase que usa la app (clave publicable: es pública a propósito)
+  var SUPABASE_URL = "https://qokalvdmgigofgpobmel.supabase.co";
+  var CLAVE = "sb_publishable_7MimMLyy9OtjPrp4_XwsaA_-KWNHacZ";
+
+  function mostrar(id) {
+    ["formulario", "listo", "vencido"].forEach(function (s) {
+      document.getElementById(s).classList.toggle("oculto", s !== id);
+    });
+  }
+  function aviso(texto, tipo) {
+    var m = document.getElementById("mensaje");
+    m.textContent = texto;
+    m.className = "mensaje " + (tipo || "error");
+  }
+
+  // Supabase manda los datos después del # (o, si hubo un error, también en ?error=...)
+  var datos = new URLSearchParams(location.hash.replace(/^#/, ""));
+  var consulta = new URLSearchParams(location.search);
+  var token = datos.get("access_token");
+  var error = datos.get("error_description") || consulta.get("error_description") || datos.get("error") || consulta.get("error");
+  // (que el permiso no quede a la vista en la barra de direcciones ni en el historial)
+  if (location.hash || location.search) {
+    history.replaceState(null, "", location.pathname);
+  }
+
+  if (error || !token) {
+    if (error && /expired|invalid/i.test(error)) {
+      document.getElementById("motivo").textContent = "El link venció o ya se usó. Los links para cambiar la contraseña sirven una sola vez y por un rato.";
+    } else if (consulta.get("code")) {
+      document.getElementById("motivo").textContent = "Este link es de otro tipo y no se puede usar desde acá.";
+    }
+    mostrar("vencido");
+    return;
+  }
+  mostrar("formulario");
+
+  document.querySelectorAll(".ver").forEach(function (b) {
+    b.addEventListener("click", function () {
+      var i = document.getElementById(b.getAttribute("data-para"));
+      i.type = i.type === "password" ? "text" : "password";
+    });
+  });
+
+  document.getElementById("form").addEventListener("submit", function (e) {
+    e.preventDefault();
+    var c1 = document.getElementById("clave").value;
+    var c2 = document.getElementById("clave2").value;
+    if (c1.length < 6) { aviso("La contraseña tiene que tener 6 caracteres o más."); return; }
+    if (c1 !== c2) { aviso("Las dos contraseñas no son iguales."); return; }
+    var boton = document.getElementById("guardar");
+    boton.disabled = true;
+    boton.textContent = "Guardando…";
+    fetch(SUPABASE_URL + "/auth/v1/user", {
+      method: "PUT",
+      headers: { "apikey": CLAVE, "Authorization": "Bearer " + token, "Content-Type": "application/json" },
+      body: JSON.stringify({ password: c1 })
+    }).then(function (r) {
+      return r.json().catch(function () { return {}; }).then(function (j) { return { ok: r.ok, estado: r.status, datos: j }; });
+    }).then(function (res) {
+      if (res.ok) { mostrar("listo"); return; }
+      var texto = (res.datos && (res.datos.msg || res.datos.message || res.datos.error_description)) || "";
+      if (res.estado === 401 || res.estado === 403 || /expired|invalid|jwt/i.test(texto)) {
+        mostrar("vencido");
+        return;
+      }
+      if (/different from the old|same/i.test(texto)) {
+        aviso("La contraseña nueva tiene que ser distinta de la anterior.");
+      } else if (/weak|characters|short/i.test(texto)) {
+        aviso("Esa contraseña es muy débil: probá con una más larga, con letras y números.");
+      } else {
+        aviso("No se pudo guardar (" + (texto || ("error " + res.estado)) + "). Probá de nuevo en un momento.");
+      }
+      boton.disabled = false;
+      boton.textContent = "Guardar contraseña";
+    }).catch(function () {
+      aviso("No hay conexión. Revisá internet y probá de nuevo.");
+      boton.disabled = false;
+      boton.textContent = "Guardar contraseña";
+    });
+  });
+})();
+</script>
+</body>
+</html>
