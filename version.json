@@ -1,5 +1,5 @@
 {
-  "version": "1.22.3",
+  "version": "1.22.4",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Novedades de esta versión:\n• «¿Olvidaste tu contraseña?» ahora funciona de punta a punta: el link del correo te lleva a una página donde elegís tu contraseña nueva.\n• Incluye la partida en la nube para Total Crisis (seguí en el celular lo que jugaste en la PC, o al revés)."
+  "notas": "Novedades de esta versión:\n• Los botones de arriba (Biblioteca y Emuladores) ya no se cortan: si no entran, pasan a una segunda fila.\n• Total Crisis tiene su portada correcta, y las portadas de otros juegos ya no se confunden con juegos de nombre parecido.\n• Nombres de juegos más limpios al escanear (por ejemplo «EA SPORTS FC 25» en vez del nombre del archivo).\n• Los títulos largos en la grilla y en el Modo TV se ven en una línea, sin quedar cortados a la mitad."
 }
