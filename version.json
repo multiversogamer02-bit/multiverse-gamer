@@ -1,5 +1,5 @@
 {
-  "version": "1.22.4",
+  "version": "1.23.0",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Novedades de esta versión:\n• Los botones de arriba (Biblioteca y Emuladores) ya no se cortan: si no entran, pasan a una segunda fila.\n• Total Crisis tiene su portada correcta, y las portadas de otros juegos ya no se confunden con juegos de nombre parecido.\n• Nombres de juegos más limpios al escanear (por ejemplo «EA SPORTS FC 25» en vez del nombre del archivo).\n• Los títulos largos en la grilla y en el Modo TV se ven en una línea, sin quedar cortados a la mitad."
+  "notas": "Novedades de esta versión:\n• NUEVO: Tutorial completo con imágenes. Tocá «📘 Tutorial» arriba en la Biblioteca: explica cada parte de la app paso a paso, con capturas numeradas (biblioteca, jugar, Tienda, emuladores, mandos, BIOS, nube, logros, streaming, amigos, ajustes y problemas frecuentes).\n• Tiene buscador (ej. «mando», «nube») y un botón para ir directo a la pestaña de cada tema.\n• También lo abrís desde Ajustes → Ayuda y soporte, y desde «💬 Ayuda»."
 }
