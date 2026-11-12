@@ -1,5 +1,5 @@
 {
-  "version": "1.23.0",
+  "version": "1.24.0",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Novedades de esta versión:\n• NUEVO: Tutorial completo con imágenes. Tocá «📘 Tutorial» arriba en la Biblioteca: explica cada parte de la app paso a paso, con capturas numeradas (biblioteca, jugar, Tienda, emuladores, mandos, BIOS, nube, logros, streaming, amigos, ajustes y problemas frecuentes).\n• Tiene buscador (ej. «mando», «nube») y un botón para ir directo a la pestaña de cada tema.\n• También lo abrís desde Ajustes → Ayuda y soporte, y desde «💬 Ayuda»."
+  "notas": "Novedades de esta versión:\n• Respaldo en la nube arreglado: si tus partidas pesan mucho, se suben en partes (y se dejan afuera cachés y videos).\n• Si la hora de tu PC está mal, la app te avisa y te dice cómo arreglarla.\n• Instalar o borrar juegos con el emulador abierto ya no falla de golpe: reintenta y te avisa claro.\n• Si un emulador se movió o se borró, se reinstala solo al jugar.\n• Botón «❓ Ayuda de esta pestaña» y atajos: F1, Ctrl+F, Enter para jugar, Ctrl+1…9.\n• Tus logros de RetroAchievements en la ficha de cada juego.\n• Guía para jugar tu primer juego si la biblioteca está vacía, y aviso antes de que termine la prueba gratis."
 }
