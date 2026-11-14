@@ -1,0 +1,15 @@
+// Configuración del sitio de Multiverse Gamer como Worker de Cloudflare.
+// Cloudflare lo lee solo al importar el repo (Workers & Pages → Import a repository).
+{
+  "name": "multiverse-gamer",
+  "main": "src/worker.js",
+  "compatibility_date": "2025-11-01",
+  "assets": {
+    // Todo el repo es el sitio (index.html, img/, restablecer/, version.json, catalogo.json…).
+    "directory": "./",
+    "binding": "ASSETS",
+    // El Worker atiende primero (para armar /juegos/...); lo demás lo pasa tal cual.
+    "run_worker_first": true
+  },
+  "observability": { "enabled": true }
+}
