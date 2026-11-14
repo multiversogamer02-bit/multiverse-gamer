@@ -1,0 +1,4 @@
+# Los archivos que lee la app tienen que llegar frescos (se actualizan con cada publicación).
+/*.json
+  Cache-Control: public, max-age=60
+  Access-Control-Allow-Origin: *
