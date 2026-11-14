@@ -1,0 +1,8 @@
+# Lo que NO se publica en el sitio (código del Worker y archivos internos del repo)
+.git
+.github
+src
+node_modules
+wrangler.jsonc
+.assetsignore
+README.md
