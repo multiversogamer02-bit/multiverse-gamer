@@ -83,6 +83,10 @@
   .nav-links a{color:var(--muted);font-size:.92rem;font-weight:500;transition:color .15s}
   .nav-links a:hover{color:var(--text)}
   .nav-cta{margin-left:auto;display:flex;align-items:center;gap:14px}
+  .otras-apps{color:var(--muted);font-size:.92rem;font-weight:600;white-space:nowrap;transition:color .15s}
+  .otras-apps:hover{color:var(--text)}
+  .foot-otras{display:block;margin-top:18px;color:var(--violet-2);font-weight:600}
+  .foot-otras:hover{color:var(--text)}
 
   /* ---------- HERO ---------- */
   .hero{position:relative;padding:78px 0 40px;overflow:hidden}
@@ -376,6 +380,13 @@
     .dl-card{flex-wrap:wrap}
     .dl-card .go{margin-left:0;width:100%;text-align:center}
   }
+  @media(max-width:560px){
+    .nav-cta{gap:10px}
+    .nav-cta .btn{padding:.6em .85em;font-size:.84rem}
+    .otras-apps{font-size:.8rem}
+    .nav .brand{font-size:.95rem}
+  }
+  @media(max-width:380px){ .otras-apps .txt{display:none} }
 </style>
 </head>
 <body>
@@ -396,6 +407,7 @@
       <a href="#precio">Precio</a>
     </nav>
     <div class="nav-cta">
+      <a class="otras-apps" href="https://multiemprendedor.ar" title="Conocé todas las apps de Multi Emprendedor">🧩<span class="txt"> Otras apps</span></a>
       <a class="btn btn-primary" href="https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest/download/MultiverseGamer-Setup.exe">Descargar gratis</a>
     </div>
   </div>
@@ -570,6 +582,7 @@
             <span class="gtag">Acceso anticipado</span>
           </div>
           <h3>Total Crisis<small>Global Conflict</small></h3>
+          <a href="https://multiverse.multiemprendedor.ar/juegos/total-crisis" style="display:inline-block;margin-top:8px;color:var(--violet-2);font-weight:600;font-size:.92rem">Ver la página del juego →</a>
           <p>Año 2030. Elegí cualquier país del mundo y llevalo a la cima: construí tu economía, investigá tecnología, negociá alianzas y mové tus ejércitos por tierra, mar y aire en un mapa del mundo entero.</p>
         </div>
       </div>
@@ -669,6 +682,7 @@
           <span class="mark" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M6 4.5v15l13-7.5-13-7.5Z" fill="currentColor"/></svg></span>
           Multiverse Gamer
         </a>
+        <a class="foot-otras" href="https://multiemprendedor.ar">🧩 Conocé todas las apps de Multi Emprendedor →</a>
         <p class="legal">Multiverse Gamer es un organizador y lanzador de juegos. <b>No incluye ni distribuye juegos ni BIOS.</b> Usá únicamente juegos de tu propiedad, homebrew o de dominio público. Las marcas y consolas mencionadas pertenecen a sus respectivos dueños.</p>
       </div>
       <div>
@@ -676,6 +690,7 @@
         <a href="https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest/download/MultiverseGamer-Setup.exe">Descargar</a>
         <a href="#app">La app por dentro</a>
         <a href="#juegos">Nuestros juegos</a>
+        <a href="https://multiverse.multiemprendedor.ar/juegos/total-crisis">Página de Total Crisis</a>
         <a href="#precio">Precio</a>
       </div>
       <div>
