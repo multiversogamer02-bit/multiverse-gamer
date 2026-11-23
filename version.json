@@ -1,5 +1,5 @@
 {
-  "version": "1.25.2",
+  "version": "1.25.3",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Novedades de esta versión:\n• Agregá juegos arrastrándolos: soltá la carpeta, la .iso o el .zip de un juego de cualquier consola sobre la Biblioteca (o tocá «➕ Agregar juego»). La app detecta la consola mirando adentro del archivo y lo deja en su lugar.\n• Si está en el mismo disco se mueve (al instante); si viene de un pendrive u otro disco se copia; los comprimidos se descomprimen solos."
+  "notas": "Novedades de esta versión:\n• Agregá juegos arrastrándolos: soltá la carpeta, la .iso o el .zip de un juego de cualquier consola sobre la Biblioteca (o tocá «➕ Agregar juego»). La app detecta la consola mirando adentro del archivo y lo deja en su lugar.\n• Si está en el mismo disco se mueve (al instante); si viene de un pendrive u otro disco se copia; los comprimidos se descomprimen solos.\n• PS3: si a RPCS3 le falta el firmware, la app lo resuelve antes de abrir el juego (lo copia de otro RPCS3 de tu PC, o te guía para bajarlo de Sony y lo instala)."
 }
