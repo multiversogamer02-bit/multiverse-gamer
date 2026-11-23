@@ -1,5 +1,5 @@
 {
-  "version": "1.24.0",
+  "version": "1.25.2",
   "url": "https://github.com/multiversogamer02-bit/multiverse-gamer/releases/latest",
-  "notas": "Novedades de esta versión:\n• Respaldo en la nube arreglado: si tus partidas pesan mucho, se suben en partes (y se dejan afuera cachés y videos).\n• Si la hora de tu PC está mal, la app te avisa y te dice cómo arreglarla.\n• Instalar o borrar juegos con el emulador abierto ya no falla de golpe: reintenta y te avisa claro.\n• Si un emulador se movió o se borró, se reinstala solo al jugar.\n• Botón «❓ Ayuda de esta pestaña» y atajos: F1, Ctrl+F, Enter para jugar, Ctrl+1…9.\n• Tus logros de RetroAchievements en la ficha de cada juego.\n• Guía para jugar tu primer juego si la biblioteca está vacía, y aviso antes de que termine la prueba gratis."
+  "notas": "Novedades de esta versión:\n• Agregá juegos arrastrándolos: soltá la carpeta, la .iso o el .zip de un juego de cualquier consola sobre la Biblioteca (o tocá «➕ Agregar juego»). La app detecta la consola mirando adentro del archivo y lo deja en su lugar.\n• Si está en el mismo disco se mueve (al instante); si viene de un pendrive u otro disco se copia; los comprimidos se descomprimen solos."
 }
